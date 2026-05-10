@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ej-rivers.github.io/florida-birds-daily/sitemap.xml
