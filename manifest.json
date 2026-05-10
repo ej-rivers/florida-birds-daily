@@ -1,16 +1,16 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-05-10T04:06:34.969Z",
+  "generated_at": "2026-05-10T04:25:06.382Z",
   "entries": [
     {
       "date": "2026-05-10",
       "date_label": "Sun May 10",
-      "common_name": "Brown Noddy",
-      "scientific_name": "Anous stolidus",
-      "species_code": "brnnod",
+      "common_name": "Ruddy Turnstone",
+      "scientific_name": "Arenaria interpres",
+      "species_code": "rudtur",
       "url": "/florida-birds-daily/2026/05/10.html",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Anous_stolidus_galapagensis%2C_isla_Santa_Cruz%2C_islas_Gal%C3%A1pagos%2C_Ecuador%2C_2015-07-26%2C_DD_41.jpg/1280px-Anous_stolidus_galapagensis%2C_isla_Santa_Cruz%2C_islas_Gal%C3%A1pagos%2C_Ecuador%2C_2015-07-26%2C_DD_41.jpg",
-      "region_label": "Dry Tortugas NP--Bush Key"
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Arenaria_interpres_%28habitus%29.jpg/1280px-Arenaria_interpres_%28habitus%29.jpg",
+      "region_label": "Parrish Park/Max Brewer Causeway"
     }
   ]
 }
