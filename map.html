@@ -44,11 +44,10 @@
       <h2>Recent sightings map</h2>
       <a href="/florida-birds-daily/archive.html" class="more">Browse archive &rarr;</a>
     </div>
-    <div id="fl-map" role="img" aria-label="Map of Florida"></div>
-    <aside class="map-overlay">
-      <strong>Coming soon</strong>
-      Recent sightings map &mdash; coming soon. Once we have a few weeks of birds in the archive, this map will pin each daily species to where it was reported, with links back to the daily page.
-    </aside>
+    <div id="fl-map" role="img" aria-label="Map of Florida bird sightings"></div>
+    <p id="fl-map-empty" class="muted small" style="display:none; margin-top: 0.75rem;">
+      No mapped sightings yet &mdash; the next bird drops at 8 AM ET.
+    </p>
   </section>
 
   <footer class="site-footer">
@@ -90,6 +89,43 @@
       }).addTo(map);
 
       map.fitBounds(flBounds);
+
+      // Hydrate pins from the manifest. Fail silently on any error so the user
+      // still sees the empty Florida basemap.
+      function escapeHtml(s) {
+        return String(s == null ? '' : s)
+          .replace(/&/g, '&amp;')
+          .replace(/</g, '&lt;')
+          .replace(/>/g, '&gt;')
+          .replace(/"/g, '&quot;')
+          .replace(/'/g, '&#39;');
+      }
+
+      fetch('/florida-birds-daily/manifest.json', { cache: 'no-cache' })
+        .then(function (res) { return res.ok ? res.json() : null; })
+        .then(function (manifest) {
+          if (!manifest || !Array.isArray(manifest.entries)) return;
+          var geocoded = manifest.entries.filter(function (e) {
+            return typeof e.lat === 'number' && typeof e.lng === 'number' &&
+                   isFinite(e.lat) && isFinite(e.lng);
+          });
+          if (geocoded.length === 0) {
+            var empty = document.getElementById('fl-map-empty');
+            if (empty) empty.style.display = 'block';
+            return;
+          }
+          geocoded.forEach(function (e) {
+            var marker = L.marker([e.lat, e.lng]).addTo(map);
+            var popupHtml =
+              '<strong>' + escapeHtml(e.common_name) + '</strong> ' +
+              '(' + escapeHtml(e.scientific_name) + ')<br/>' +
+              escapeHtml(e.date_label || e.date || '') + ' &middot; ' +
+              escapeHtml(e.location_name || e.region_label || '') + '<br/>' +
+              '<a href="' + escapeHtml(e.url) + '">View daily page &rarr;</a>';
+            marker.bindPopup(popupHtml);
+          });
+        })
+        .catch(function () { /* fail silently */ });
     })();
   </script>
 </body>

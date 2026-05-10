@@ -1,16 +1,19 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-05-10T04:25:06.382Z",
+  "generated_at": "2026-05-10T12:00:16.128Z",
   "entries": [
     {
       "date": "2026-05-10",
       "date_label": "Sun May 10",
-      "common_name": "Ruddy Turnstone",
-      "scientific_name": "Arenaria interpres",
-      "species_code": "rudtur",
+      "common_name": "Laughing Gull",
+      "scientific_name": "Leucophaeus atricilla",
+      "species_code": "laugul",
       "url": "/florida-birds-daily/2026/05/10.html",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Arenaria_interpres_%28habitus%29.jpg/1280px-Arenaria_interpres_%28habitus%29.jpg",
-      "region_label": "Parrish Park/Max Brewer Causeway"
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Leucophaeus_atricilla_stare.jpg/1280px-Leucophaeus_atricilla_stare.jpg",
+      "region_label": "Palm Beach Pelagics 5/10/25 - Leg 4",
+      "lat": 26.629367,
+      "lng": -79.829665,
+      "location_name": "Palm Beach Pelagics 5/10/25 - Leg 4"
     }
   ]
 }
