@@ -36,38 +36,27 @@
     </div>
   </header>
 
-  <div class="ticker" aria-label="Today's sightings ticker">
+  <div class="ticker" aria-label="Today's sightings ticker" id="ticker">
     <div class="ticker-inner">
       <span class="ticker-pill"><span class="live"></span> <strong>Live</strong></span>
-      <span>1,247 reported in Florida this week</span>
+      <span>A new Florida bird every day</span>
       <span class="sep">&middot;</span>
-      <span>Hottest county: <strong>Lee</strong></span>
+      <span id="ticker-today">Today's bird: <strong>loading&hellip;</strong></span>
       <span class="sep">&middot;</span>
-      <span>Today's bird: <strong>Roseate Spoonbill</strong></span>
-      <span class="sep">&middot;</span>
-      <span>Next update: tomorrow 8:30 AM</span>
+      <span>Next update: tomorrow 8&nbsp;AM ET</span>
     </div>
   </div>
 
-  <!-- HERO: today's bird -->
+  <!-- HERO: today's bird (hydrated from manifest) -->
   <section class="hero" id="latest">
-    <img class="hero-img"
-         src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Rosa_L%C3%B6ffler_%28Platalea_ajaja%29-001.jpg/1920px-Rosa_L%C3%B6ffler_%28Platalea_ajaja%29-001.jpg"
-         alt="Roseate Spoonbills perched at Merritt Island National Wildlife Refuge, Florida." />
+    <img class="hero-img" id="hero-img" src="" alt="" />
     <div class="hero-grad"></div>
     <div class="hero-content">
-      <span class="hero-eyebrow">Today &middot; Sun May 10</span>
-      <h1>Roseate Spoonbill</h1>
-      <p class="sci">Platalea ajaja</p>
-      <div class="hero-meta">
-        <span><strong>1,247</strong> sightings &middot; 7 days</span>
-        <span>Hot in <strong>Lee, Collier, Monroe</strong></span>
-        <span>Family <strong>Threskiornithidae</strong></span>
-      </div>
-      <a class="hero-cta" href="/florida-birds-daily/2026/05/10.html">Read more &rarr;</a>
-    </div>
-    <div class="hero-credit">
-      Photo: <a href="https://commons.wikimedia.org/wiki/File:Rosa_L%C3%B6ffler_(Platalea_ajaja)-001.jpg">Hans Stieglitz / Wikimedia</a> &middot; CC BY-SA 3.0
+      <span class="hero-eyebrow" id="hero-eyebrow">Today</span>
+      <h1 id="hero-name">Loading today's bird&hellip;</h1>
+      <p class="sci" id="hero-sci"></p>
+      <div class="hero-meta" id="hero-meta"></div>
+      <a class="hero-cta" id="hero-cta" href="#">Read more &rarr;</a>
     </div>
   </section>
 
@@ -166,10 +155,64 @@
 
       function fail() { render([]); }
 
+      function renderHero(latest) {
+        var heroImg     = document.getElementById('hero-img');
+        var heroEyebrow = document.getElementById('hero-eyebrow');
+        var heroName    = document.getElementById('hero-name');
+        var heroSci     = document.getElementById('hero-sci');
+        var heroMeta    = document.getElementById('hero-meta');
+        var heroCta     = document.getElementById('hero-cta');
+        var tickerToday = document.getElementById('ticker-today');
+
+        if (!latest) {
+          if (heroEyebrow) heroEyebrow.textContent = 'Coming soon';
+          if (heroName)    heroName.textContent = 'No bird featured yet';
+          if (heroSci)     heroSci.textContent = '';
+          if (heroMeta)    heroMeta.innerHTML = '';
+          if (heroCta)     heroCta.style.display = 'none';
+          if (heroImg)     heroImg.style.display = 'none';
+          if (tickerToday) tickerToday.innerHTML = "Today's bird: <strong>not yet posted</strong>";
+          return;
+        }
+
+        if (heroImg && latest.thumb) {
+          heroImg.src = latest.thumb;
+          heroImg.alt = (latest.common_name || 'Today\u2019s Florida bird');
+        } else if (heroImg) {
+          heroImg.style.display = 'none';
+        }
+        if (heroEyebrow) heroEyebrow.textContent = 'Today \u00b7 ' + (latest.date_label || latest.date || '');
+        if (heroName)    heroName.textContent = latest.common_name || 'Unknown bird';
+        if (heroSci)     heroSci.textContent = latest.scientific_name || '';
+
+        var metaBits = [];
+        if (latest.location_name)      metaBits.push('Spotted at <strong>' + escapeHtml(latest.location_name) + '</strong>');
+        else if (latest.region_label)  metaBits.push('Spotted at <strong>' + escapeHtml(latest.region_label) + '</strong>');
+        if (heroMeta) heroMeta.innerHTML = metaBits.map(function (m) { return '<span>' + m + '</span>'; }).join('');
+
+        if (heroCta) heroCta.href = latest.url || '#';
+        if (tickerToday) {
+          tickerToday.innerHTML = "Today's bird: <strong>" + escapeHtml(latest.common_name || '\u2014') + '</strong>';
+        }
+      }
+
+      function renderAll(entries) {
+        if (!entries || !entries.length) {
+          renderHero(null);
+          render([]);
+          return;
+        }
+        var sorted = entries.slice().sort(function (a, b) {
+          return (b.date || '').localeCompare(a.date || '');
+        });
+        renderHero(sorted[0]);
+        render(entries);
+      }
+
       fetch('/florida-birds-daily/manifest.json', { cache: 'no-cache' })
         .then(function (r) { return r.ok ? r.json() : null; })
-        .then(function (m) { render(m && m.entries ? m.entries : []); })
-        .catch(fail);
+        .then(function (m) { renderAll(m && m.entries ? m.entries : []); })
+        .catch(function () { renderAll([]); });
     })();
   </script>
 </body>
