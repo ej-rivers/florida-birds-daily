@@ -52,8 +52,10 @@ async function main() {
   const items = entries.map((e) => {
     const link = absoluteUrl(e.url);
     const title = `${e.common_name || 'Bird'} (${e.scientific_name || ''})`.trim();
-    const desc = `${e.common_name || ''} &mdash; ${e.scientific_name || ''}` +
-                 (e.region_label ? ` &middot; ${e.region_label}` : '');
+    // Plain text for RSS description: avoid HTML entities (readers don't decode them
+    // consistently in <description>) and avoid raw Unicode glyphs per project rules.
+    const desc = `${e.common_name || ''} - ${e.scientific_name || ''}` +
+                 (e.region_label ? ` (${e.region_label})` : '');
     return [
       '    <item>',
       `      <title>${xmlEscape(title)}</title>`,
