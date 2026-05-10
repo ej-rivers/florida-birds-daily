@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Archive &middot; Florida Birds Daily</title>
+  <meta name="description" content="Every Florida bird published on Florida Birds Daily, in chronological order." />
+  <link rel="canonical" href="https://ej-rivers.github.io/florida-birds-daily/archive.html" />
+  <link rel="alternate" type="application/rss+xml" title="Florida Birds Daily &mdash; feed" href="/florida-birds-daily/feed.xml" />
+  <link rel="preconnect" href="https://upload.wikimedia.org" crossorigin />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/florida-birds-daily/style.css" />
+
+  <meta property="og:title" content="Archive &middot; Florida Birds Daily" />
+  <meta property="og:description" content="Every Florida bird published, in chronological order." />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://ej-rivers.github.io/florida-birds-daily/archive.html" />
+</head>
+<body>
+
+  <header class="topnav">
+    <div class="topnav-inner">
+      <a class="brand" href="/florida-birds-daily/">
+        <span class="dot"></span>
+        Florida Birds Daily
+      </a>
+      <nav>
+        <a href="/florida-birds-daily/">Today</a>
+        <a href="/florida-birds-daily/archive.html" class="active">Archive</a>
+        <a href="/florida-birds-daily/map.html">Map</a>
+        <a href="/florida-birds-daily/about.html">About</a>
+      </nav>
+    </div>
+  </header>
+
+  <section class="section">
+    <div class="section-head">
+      <h2>The full archive</h2>
+      <a href="/florida-birds-daily/feed.xml" class="more">RSS feed &rarr;</a>
+    </div>
+    <p class="muted" id="archive-count" style="margin: -0.5rem 0 1.25rem;">Loading&hellip;</p>
+    <div class="grid" id="archive-all">
+      <p class="empty-note muted">Loading archive&hellip;</p>
+    </div>
+  </section>
+
+  <footer class="site-footer">
+    <p>
+      Sightings: <a href="https://ebird.org/">eBird</a> &middot;
+      Photos: <a href="https://commons.wikimedia.org/">Wikimedia Commons</a> &middot;
+      Bios: <a href="https://en.wikipedia.org/">Wikipedia</a>
+    </p>
+    <p class="muted small">
+      Florida Birds Daily is a personal project. Sightings are user-submitted to eBird and may not reflect protected-species locations precisely.
+    </p>
+  </footer>
+
+  <script>
+    (function () {
+      var FALLBACK_HTML =
+        '<p class="empty-note">' +
+        '<strong>No posts yet.</strong> ' +
+        'The first bird drops daily at 8&nbsp;AM ET &mdash; check back soon.' +
+        '</p>';
+
+      function escapeHtml(s) {
+        return String(s == null ? '' : s).replace(/[&<>"']/g, function (c) {
+          return ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c];
+        });
+      }
+
+      function tileHTML(e) {
+        var href = escapeHtml(e.url || '#');
+        var label = escapeHtml(e.date_label || e.date || '');
+        var name = escapeHtml(e.common_name || 'Unknown bird');
+        var sci = escapeHtml(e.scientific_name || '');
+        var thumb = escapeHtml(e.thumb || '');
+        var imgTag = thumb ? '<img src="' + thumb + '" alt="" loading="lazy" />' : '';
+        return (
+          '<a class="tile" href="' + href + '">' +
+            '<div class="tile-img">' +
+              '<span class="tile-date">' + label + '</span>' +
+              imgTag +
+            '</div>' +
+            '<div class="tile-body">' +
+              '<h3>' + name + '</h3>' +
+              '<p class="sci">' + sci + '</p>' +
+            '</div>' +
+          '</a>'
+        );
+      }
+
+      function render(entries) {
+        var grid = document.getElementById('archive-all');
+        var count = document.getElementById('archive-count');
+        if (!entries || !entries.length) {
+          if (grid) grid.innerHTML = FALLBACK_HTML;
+          if (count) count.textContent = '';
+          return;
+        }
+        var sorted = entries.slice().sort(function (a, b) {
+          return (b.date || '').localeCompare(a.date || '');
+        });
+        if (count) {
+          var noun = sorted.length === 1 ? 'entry' : 'entries';
+          count.textContent = sorted.length + ' ' + noun + ' \u00b7 newest first';
+        }
+        if (grid) grid.innerHTML = sorted.map(tileHTML).join('');
+      }
+
+      fetch('/florida-birds-daily/manifest.json', { cache: 'no-cache' })
+        .then(function (r) { return r.ok ? r.json() : null; })
+        .then(function (m) { render(m && m.entries ? m.entries : []); })
+        .catch(function () { render([]); });
+    })();
+  </script>
+</body>
+</html>

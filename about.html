@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>About &middot; Florida Birds Daily</title>
+  <meta name="description" content="What Florida Birds Daily is, what's automated, and where the data and photos come from." />
+  <link rel="canonical" href="https://ej-rivers.github.io/florida-birds-daily/about.html" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/florida-birds-daily/style.css" />
+
+  <meta property="og:title" content="About &middot; Florida Birds Daily" />
+  <meta property="og:description" content="What this is, how it's built, and credits." />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://ej-rivers.github.io/florida-birds-daily/about.html" />
+</head>
+<body>
+
+  <header class="topnav">
+    <div class="topnav-inner">
+      <a class="brand" href="/florida-birds-daily/">
+        <span class="dot"></span>
+        Florida Birds Daily
+      </a>
+      <nav>
+        <a href="/florida-birds-daily/">Today</a>
+        <a href="/florida-birds-daily/archive.html">Archive</a>
+        <a href="/florida-birds-daily/map.html">Map</a>
+        <a href="/florida-birds-daily/about.html" class="active">About</a>
+      </nav>
+    </div>
+  </header>
+
+  <article class="prose">
+    <h1>About Florida Birds Daily</h1>
+
+    <p>
+      Florida Birds Daily is a small personal hobby project &mdash; one species, one photo, one place,
+      every morning. Florida is loud with birds: roseate spoonbills slow-stepping through Merritt Island,
+      anhingas drying their wings on every cypress branch, scrub-jays that exist nowhere else on earth.
+      The goal here is to spend a minute a day with one of them.
+    </p>
+
+    <p>
+      The site is built on a simple automation. Every day at 8&nbsp;AM Eastern, a script picks a Florida
+      bird from recent <a href="https://ebird.org/">eBird</a> reports, pulls a creative-commons photo
+      from <a href="https://commons.wikimedia.org/">Wikimedia Commons</a>, lifts a short bio from
+      <a href="https://en.wikipedia.org/">Wikipedia</a>, and (when one exists) links a recording from
+      <a href="https://xeno-canto.org/">xeno-canto</a>. The result is a daily page and a feed entry,
+      published to GitHub Pages with no humans in the loop.
+    </p>
+
+    <p>
+      That means the bios are encyclopedic, not personal &mdash; I haven't seen most of these birds.
+      It also means the photos belong to the photographers who shared them, and the sightings belong
+      to the eBirders who logged them. Where you see a face in a photo or a hotspot pin, those are
+      real people doing real fieldwork. Credit is on every page; if anything is mis-attributed,
+      I want to fix it &mdash; reach out and I will.
+    </p>
+
+    <h2>Credits &amp; attribution</h2>
+    <ul>
+      <li><strong>Sightings:</strong> <a href="https://ebird.org/">eBird</a>, the Cornell Lab of Ornithology.</li>
+      <li><strong>Photos:</strong> <a href="https://commons.wikimedia.org/">Wikimedia Commons</a>, individually credited on each daily page.</li>
+      <li><strong>Bios:</strong> <a href="https://en.wikipedia.org/">Wikipedia</a>, under CC BY-SA.</li>
+      <li><strong>Calls:</strong> <a href="https://xeno-canto.org/">xeno-canto</a>, individually credited on each daily page.</li>
+      <li><strong>Map tiles:</strong> <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors.</li>
+    </ul>
+
+    <h2>What's automated, what isn't</h2>
+    <p>
+      Automated: the daily fetch from eBird, photo and bio lookup, page generation, manifest rebuild,
+      RSS, sitemap, and deploy. Not automated: editorial judgment. If a script picks a poor photo or a
+      bio reads strangely, that's a bug, not a person. Issues and corrections welcome.
+    </p>
+  </article>
+
+  <footer class="site-footer">
+    <p>
+      Sightings: <a href="https://ebird.org/">eBird</a> &middot;
+      Photos: <a href="https://commons.wikimedia.org/">Wikimedia Commons</a> &middot;
+      Bios: <a href="https://en.wikipedia.org/">Wikipedia</a>
+    </p>
+    <p class="muted small">
+      Florida Birds Daily is a personal project. Sightings are user-submitted to eBird and may not reflect protected-species locations precisely.
+    </p>
+  </footer>
+</body>
+</html>

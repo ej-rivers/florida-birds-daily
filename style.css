@@ -468,3 +468,76 @@ img { display: block; max-width: 100%; }
 .muted { color: var(--muted); }
 .small { font-size: 0.85em; }
 .center { text-align: center; }
+
+
+/* ============================== EMPTY-STATE / HYDRATION ============================== */
+.empty-note {
+  grid-column: 1 / -1;
+  padding: 1.5rem 1.25rem;
+  border: 1px dashed var(--rule-strong);
+  border-radius: 14px;
+  background: var(--bg-elev);
+  color: var(--ink-soft);
+  font-size: 0.98rem;
+  text-align: center;
+}
+.empty-note strong { color: var(--ink); font-weight: 700; }
+
+/* ============================== ABOUT / PROSE PAGES ============================== */
+.prose {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 2.5rem 1.25rem 4rem;
+  font-size: 1.05rem;
+  color: var(--ink-soft);
+}
+.prose h1 {
+  font-family: var(--display);
+  font-weight: 700;
+  font-size: clamp(2rem, 4.4vw, 2.8rem);
+  letter-spacing: -0.02em;
+  color: var(--ink);
+  margin: 0 0 1.25rem;
+}
+.prose h2 {
+  font-family: var(--display);
+  font-weight: 600;
+  font-size: 1.35rem;
+  color: var(--ink);
+  margin: 2rem 0 0.6rem;
+}
+.prose p { margin: 0 0 1rem; }
+.prose a { color: var(--ink); text-decoration: underline; text-decoration-color: var(--rule-strong); }
+.prose a:hover { color: var(--accent); text-decoration-color: var(--accent); }
+.prose ul { padding-left: 1.25rem; margin: 0 0 1rem; }
+.prose li { margin: 0.25rem 0; }
+
+/* ============================== MAP PAGE ============================== */
+.map-page {
+  max-width: var(--max);
+  margin: 0 auto;
+  padding: 2rem 1.25rem 3rem;
+}
+#fl-map {
+  height: clamp(420px, 70vh, 720px);
+  width: 100%;
+  border-radius: 14px;
+  overflow: hidden;
+  border: 1px solid var(--rule);
+  box-shadow: var(--shadow);
+  background: #1a1a14;
+}
+.map-overlay {
+  position: relative;
+  margin: -3.5rem 1rem 0 auto;
+  z-index: 500;
+  max-width: 320px;
+  padding: 1rem 1.1rem;
+  background: var(--bg-elev);
+  border: 1px solid var(--rule);
+  border-radius: 12px;
+  box-shadow: var(--shadow-strong);
+  font-size: 0.92rem;
+  color: var(--ink-soft);
+}
+.map-overlay strong { display: block; color: var(--ink); margin-bottom: 0.25rem; font-family: var(--display); font-size: 1rem; }
