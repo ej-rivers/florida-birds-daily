@@ -1,6 +1,6 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-05-10T12:00:16.128Z",
+  "generated_at": "2026-05-10T14:24:06.060Z",
   "entries": [
     {
       "date": "2026-05-10",
@@ -13,7 +13,14 @@
       "region_label": "Palm Beach Pelagics 5/10/25 - Leg 4",
       "lat": 26.629367,
       "lng": -79.829665,
-      "location_name": "Palm Beach Pelagics 5/10/25 - Leg 4"
+      "location_name": "Palm Beach Pelagics 5/10/25 - Leg 4",
+      "total_sightings": 877,
+      "lookback_days": 7,
+      "top_counties": [
+        "Pinellas",
+        "Monroe",
+        "Hillsborough"
+      ]
     }
   ]
 }

@@ -186,6 +186,17 @@
         if (heroSci)     heroSci.textContent = latest.scientific_name || '';
 
         var metaBits = [];
+        // Sightings count first: "<n> sightings &middot; <d> days"
+        if (typeof latest.total_sightings === 'number' && latest.total_sightings > 0) {
+          var days = (typeof latest.lookback_days === 'number' && latest.lookback_days > 0) ? latest.lookback_days : 7;
+          metaBits.push('<strong>' + latest.total_sightings.toLocaleString() + '</strong> sightings &middot; ' + days + ' days');
+        }
+        // Hot counties second: "Hot in <a, b, c>"
+        if (Array.isArray(latest.top_counties) && latest.top_counties.length > 0) {
+          var safeCounties = latest.top_counties.map(escapeHtml).join(', ');
+          metaBits.push('Hot in <strong>' + safeCounties + '</strong>');
+        }
+        // Location last (placeholder vibe)
         if (latest.location_name)      metaBits.push('Spotted at <strong>' + escapeHtml(latest.location_name) + '</strong>');
         else if (latest.region_label)  metaBits.push('Spotted at <strong>' + escapeHtml(latest.region_label) + '</strong>');
         if (heroMeta) heroMeta.innerHTML = metaBits.map(function (m) { return '<span>' + m + '</span>'; }).join('');
