@@ -1,7 +1,47 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-05-10T14:24:06.060Z",
+  "generated_at": "2026-05-14T12:00:24.885Z",
   "entries": [
+    {
+      "date": "2026-05-14",
+      "date_label": "Thu May 14",
+      "common_name": "Black-bellied Whistling-Duck",
+      "scientific_name": "Dendrocygna autumnalis",
+      "species_code": "bbwduc",
+      "url": "/florida-birds-daily/2026/05/14.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Whistling_duck_flight02_-_natures_pics.jpg/1280px-Whistling_duck_flight02_-_natures_pics.jpg",
+      "region_label": "Bay Lake, Tampa US-FL 28.07116, -82.49881",
+      "lat": 28.071162,
+      "lng": -82.498806,
+      "location_name": "Bay Lake, Tampa US-FL 28.07116, -82.49881",
+      "total_sightings": 610,
+      "lookback_days": 7,
+      "top_counties": [
+        "Sarasota",
+        "Hillsborough",
+        "Palm Beach"
+      ]
+    },
+    {
+      "date": "2026-05-11",
+      "date_label": "Mon May 11",
+      "common_name": "Royal Tern",
+      "scientific_name": "Thalasseus maximus",
+      "species_code": "royter1",
+      "url": "/florida-birds-daily/2026/05/11.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Thalasseus_maximus_flight.jpg",
+      "region_label": "Anastasia SP",
+      "lat": 29.8661797,
+      "lng": -81.2705122,
+      "location_name": "Anastasia SP",
+      "total_sightings": 414,
+      "lookback_days": 7,
+      "top_counties": [
+        "Pinellas",
+        "Brevard",
+        "Escambia"
+      ]
+    },
     {
       "date": "2026-05-10",
       "date_label": "Sun May 10",
