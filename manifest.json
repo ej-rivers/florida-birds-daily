@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-05-14T12:00:24.885Z",
+  "generated_at": "2026-05-15T05:09:05.864Z",
   "entries": [
+    {
+      "date": "2026-05-15",
+      "date_label": "Fri May 15",
+      "common_name": "Muscovy Duck",
+      "scientific_name": "Cairina moschata",
+      "species_code": "musduc",
+      "url": "/florida-birds-daily/2026/05/15.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Cairina_moschata-2.jpg/1280px-Cairina_moschata-2.jpg",
+      "region_label": "Tropical Park",
+      "lat": 25.727907,
+      "lng": -80.3235126,
+      "location_name": "Tropical Park",
+      "total_sightings": 263,
+      "lookback_days": 7,
+      "top_counties": [
+        "Miami-Dade",
+        "Broward",
+        "Hillsborough"
+      ]
+    },
     {
       "date": "2026-05-14",
       "date_label": "Thu May 14",
