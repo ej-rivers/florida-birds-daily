@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-05-15T05:09:05.864Z",
+  "generated_at": "2026-05-16T15:20:57.569Z",
   "entries": [
+    {
+      "date": "2026-05-16",
+      "date_label": "Sat May 16",
+      "common_name": "Glossy Ibis",
+      "scientific_name": "Plegadis falcinellus",
+      "species_code": "gloibi",
+      "url": "/florida-birds-daily/2026/05/16.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Plegadis_falcinellus_%28aka%29_background_blurred.jpg/1280px-Plegadis_falcinellus_%28aka%29_background_blurred.jpg",
+      "region_label": "Orange Creek Restoration Area--Alachua Co.",
+      "lat": 29.4596175,
+      "lng": -82.0737476,
+      "location_name": "Orange Creek Restoration Area--Alachua Co.",
+      "total_sightings": 261,
+      "lookback_days": 7,
+      "top_counties": [
+        "Sarasota",
+        "Brevard",
+        "Palm Beach"
+      ]
+    },
     {
       "date": "2026-05-15",
       "date_label": "Fri May 15",
