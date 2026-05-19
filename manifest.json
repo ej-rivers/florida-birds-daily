@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-05-18T13:53:39.525Z",
+  "generated_at": "2026-05-19T12:00:22.355Z",
   "entries": [
+    {
+      "date": "2026-05-19",
+      "date_label": "Tue May 19",
+      "common_name": "Sooty Tern",
+      "scientific_name": "Onychoprion fuscatus",
+      "species_code": "sooter1",
+      "url": "/florida-birds-daily/2026/05/19.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Sterna_fuscata.JPG/1280px-Sterna_fuscata.JPG",
+      "region_label": "Garden Key Pathway US-FL (24.6283,-82.8715)",
+      "lat": 24.628311,
+      "lng": -82.871473,
+      "location_name": "Garden Key Pathway US-FL (24.6283,-82.8715)",
+      "total_sightings": 8,
+      "lookback_days": 7,
+      "top_counties": [
+        "Monroe",
+        "Indian River",
+        "Miami-Dade"
+      ]
+    },
     {
       "date": "2026-05-18",
       "date_label": "Mon May 18",
