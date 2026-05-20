@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-05-19T12:00:22.355Z",
+  "generated_at": "2026-05-20T21:37:51.445Z",
   "entries": [
+    {
+      "date": "2026-05-20",
+      "date_label": "Wed May 20",
+      "common_name": "Least Tern",
+      "scientific_name": "Sternula antillarum",
+      "species_code": "leater1",
+      "url": "/florida-birds-daily/2026/05/20.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Sternula_antillarum_browni%2C_San_Luis_Obispo%2C_California_1.jpg",
+      "region_label": "Anclote Key Preserve SP--Anclote Key (Pinellas Co.)",
+      "lat": 28.1684212,
+      "lng": -82.8470421,
+      "location_name": "Anclote Key Preserve SP--Anclote Key (Pinellas Co.)",
+      "total_sightings": 294,
+      "lookback_days": 7,
+      "top_counties": [
+        "Palm Beach",
+        "Monroe",
+        "Brevard"
+      ]
+    },
     {
       "date": "2026-05-19",
       "date_label": "Tue May 19",
