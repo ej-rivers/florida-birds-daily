@@ -1,0 +1,57 @@
+name: Daily bird build & deploy
+
+on:
+  schedule:
+    # 11:00 UTC = 07:00 ET (DST) / 06:00 ET (standard).
+    # GitHub Actions schedules drift by 1-3h under load; landing this an hour
+    # before the local FB pipeline (08:00 ET) gives the site a reasonable
+    # head start. workflow_dispatch is also available for manual triggers.
+    - cron: "0 11 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "generate.mjs"
+      - ".github/workflows/daily.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: "daily-bird"
+  cancel-in-progress: false
+
+jobs:
+  build-and-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          # Need a real token to push back to main.
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Generate today's bird page
+        env:
+          EBIRD_API_KEY: ${{ secrets.EBIRD_API_KEY }}
+        run: node generate.mjs
+
+      - name: Commit & push (if changed)
+        run: |
+          git config user.name "florida-birds-daily-bot"
+          git config user.email "florida-birds-daily-bot@users.noreply.github.com"
+          if [[ -n "$(git status --porcelain)" ]]; then
+            today=$(TZ=America/New_York date +%Y-%m-%d)
+            pick=$(node -e "const m=require('./manifest.json'); console.log(m.entries[0]?.common_name || 'unknown')")
+            git add -A
+            git commit -m "Daily entry: ${pick} (${today}) [auto]"
+            git push origin HEAD:main
+            echo "::notice::Committed and pushed daily update for ${today}: ${pick}"
+          else
+            echo "::notice::No changes (today's page already exists)."
+          fi
