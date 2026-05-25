@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-05-24T12:02:48.604Z",
+  "generated_at": "2026-05-25T14:12:28.524Z",
   "entries": [
+    {
+      "date": "2026-05-25",
+      "date_label": "Mon May 25",
+      "common_name": "Mallard x Mottled Duck (hybrid)",
+      "scientific_name": "Anas platyrhynchos x fulvigula",
+      "species_code": "x00422",
+      "url": "/florida-birds-daily/2026/05/25.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Bulletin_%28IA_bulletin03peab%29.pdf/page1-500px-Bulletin_%28IA_bulletin03peab%29.pdf.jpg",
+      "region_label": "Peaceful Waters Sanctuary",
+      "lat": 26.631443,
+      "lng": -80.2332294,
+      "location_name": "Peaceful Waters Sanctuary",
+      "total_sightings": 74,
+      "lookback_days": 7,
+      "top_counties": [
+        "Pinellas",
+        "Manatee",
+        "Sumter"
+      ]
+    },
     {
       "date": "2026-05-24",
       "date_label": "Sun May 24",
