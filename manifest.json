@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-05-26T13:56:17.225Z",
+  "generated_at": "2026-05-27T14:29:19.714Z",
   "entries": [
+    {
+      "date": "2026-05-27",
+      "date_label": "Wed May 27",
+      "common_name": "Western Cattle-Egret",
+      "scientific_name": "Ardea ibis",
+      "species_code": "categr1",
+      "url": "/florida-birds-daily/2026/05/27.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bubulcus_ibis_%28Cattle_Egret%29.jpg/1280px-Bubulcus_ibis_%28Cattle_Egret%29.jpg",
+      "region_label": "KOCF South (Restricted Access)",
+      "lat": 29.1541334,
+      "lng": -82.2230928,
+      "location_name": "KOCF South (Restricted Access)",
+      "total_sightings": 378,
+      "lookback_days": 7,
+      "top_counties": [
+        "Alachua",
+        "Orange",
+        "Marion"
+      ]
+    },
     {
       "date": "2026-05-26",
       "date_label": "Tue May 26",
