@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-05-27T14:29:19.714Z",
+  "generated_at": "2026-05-28T14:40:39.751Z",
   "entries": [
+    {
+      "date": "2026-05-28",
+      "date_label": "Thu May 28",
+      "common_name": "Ruddy Turnstone",
+      "scientific_name": "Arenaria interpres",
+      "species_code": "rudtur",
+      "url": "/florida-birds-daily/2026/05/28.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Arenaria_interpres_%28habitus%29.jpg/1280px-Arenaria_interpres_%28habitus%29.jpg",
+      "region_label": "North Lido Beach Park",
+      "lat": 27.3167045,
+      "lng": -82.583995,
+      "location_name": "North Lido Beach Park",
+      "total_sightings": 128,
+      "lookback_days": 7,
+      "top_counties": [
+        "Pinellas",
+        "Sarasota",
+        "Collier"
+      ]
+    },
     {
       "date": "2026-05-27",
       "date_label": "Wed May 27",
