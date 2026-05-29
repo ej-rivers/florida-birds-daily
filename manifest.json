@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-05-28T14:40:39.751Z",
+  "generated_at": "2026-05-29T14:11:48.585Z",
   "entries": [
+    {
+      "date": "2026-05-29",
+      "date_label": "Fri May 29",
+      "common_name": "Red Knot",
+      "scientific_name": "Calidris canutus",
+      "species_code": "redkno",
+      "url": "/florida-birds-daily/2026/05/29.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Calidris_canutus_%28summer%29.jpg/1280px-Calidris_canutus_%28summer%29.jpg",
+      "region_label": "North Lido Beach Park",
+      "lat": 27.3167045,
+      "lng": -82.583995,
+      "location_name": "North Lido Beach Park",
+      "total_sightings": 14,
+      "lookback_days": 7,
+      "top_counties": [
+        "Pinellas",
+        "Sarasota",
+        "Charlotte"
+      ]
+    },
     {
       "date": "2026-05-28",
       "date_label": "Thu May 28",
