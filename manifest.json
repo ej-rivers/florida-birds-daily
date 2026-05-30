@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-05-29T14:11:48.585Z",
+  "generated_at": "2026-05-30T12:05:49.427Z",
   "entries": [
+    {
+      "date": "2026-05-30",
+      "date_label": "Sat May 30",
+      "common_name": "Magnificent Frigatebird",
+      "scientific_name": "Fregata magnificens",
+      "species_code": "magfri",
+      "url": "/florida-birds-daily/2026/05/30.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Fregata_magnificens_-Galapagos%2C_Ecuador_-male-8_%281%29.jpg/1280px-Fregata_magnificens_-Galapagos%2C_Ecuador_-male-8_%281%29.jpg",
+      "region_label": "Marco Island Bridge (South)",
+      "lat": 25.960695,
+      "lng": -81.7105087,
+      "location_name": "Marco Island Bridge (South)",
+      "total_sightings": 194,
+      "lookback_days": 7,
+      "top_counties": [
+        "Pinellas",
+        "Monroe",
+        "Manatee"
+      ]
+    },
     {
       "date": "2026-05-29",
       "date_label": "Fri May 29",
