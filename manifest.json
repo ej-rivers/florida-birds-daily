@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-05-30T12:05:49.427Z",
+  "generated_at": "2026-05-31T12:14:04.672Z",
   "entries": [
+    {
+      "date": "2026-05-31",
+      "date_label": "Sun May 31",
+      "common_name": "Sandhill Crane",
+      "scientific_name": "Antigone canadensis",
+      "species_code": "sancra",
+      "url": "/florida-birds-daily/2026/05/31.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Sandhill_Cranes_in_flight_7960.jpg/1280px-Sandhill_Cranes_in_flight_7960.jpg",
+      "region_label": "Limit ave pond",
+      "lat": 28.8160813,
+      "lng": -81.6331891,
+      "location_name": "Limit ave pond",
+      "total_sightings": 333,
+      "lookback_days": 7,
+      "top_counties": [
+        "Orange",
+        "Sarasota",
+        "Alachua"
+      ]
+    },
     {
       "date": "2026-05-30",
       "date_label": "Sat May 30",
