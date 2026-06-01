@@ -1,7 +1,26 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-05-31T12:14:04.672Z",
+  "generated_at": "2026-06-01T16:41:45.934Z",
   "entries": [
+    {
+      "date": "2026-06-01",
+      "date_label": "Mon Jun 1",
+      "common_name": "Mitred Parakeet",
+      "scientific_name": "Psittacara mitratus",
+      "species_code": "mitpar",
+      "url": "/florida-birds-daily/2026/06/01.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/3/32/Mitred_Parakeet_Florida.jpg",
+      "region_label": "Betty’s Yard",
+      "lat": 25.670335,
+      "lng": -80.309328,
+      "location_name": "Betty’s Yard",
+      "total_sightings": 13,
+      "lookback_days": 7,
+      "top_counties": [
+        "Miami-Dade",
+        "Broward"
+      ]
+    },
     {
       "date": "2026-05-31",
       "date_label": "Sun May 31",
