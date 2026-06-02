@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-06-01T16:41:45.934Z",
+  "generated_at": "2026-06-02T14:57:46.553Z",
   "entries": [
+    {
+      "date": "2026-06-02",
+      "date_label": "Tue Jun 2",
+      "common_name": "Swallow-tailed Kite",
+      "scientific_name": "Elanoides forficatus",
+      "species_code": "swtkit",
+      "url": "/florida-birds-daily/2026/06/02.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Swallow-tailed_Kite_%28Elanoides_forficatus%29_%2814761905330%29.jpg/1280px-Swallow-tailed_Kite_%28Elanoides_forficatus%29_%2814761905330%29.jpg",
+      "region_label": "Caloosahatchee Regional Park",
+      "lat": 26.7228995,
+      "lng": -81.6542038,
+      "location_name": "Caloosahatchee Regional Park",
+      "total_sightings": 608,
+      "lookback_days": 7,
+      "top_counties": [
+        "Alachua",
+        "Orange",
+        "Marion"
+      ]
+    },
     {
       "date": "2026-06-01",
       "date_label": "Mon Jun 1",
