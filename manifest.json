@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-06-02T14:57:46.553Z",
+  "generated_at": "2026-06-03T15:48:49.347Z",
   "entries": [
+    {
+      "date": "2026-06-03",
+      "date_label": "Wed Jun 3",
+      "common_name": "Great Egret",
+      "scientific_name": "Ardea alba",
+      "species_code": "greegr",
+      "url": "/florida-birds-daily/2026/06/03.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Ardea_alba4.jpg",
+      "region_label": "Claude Edge Front St. Park--Melbourne Harbor rookery",
+      "lat": 28.0785139,
+      "lng": -80.5992899,
+      "location_name": "Claude Edge Front St. Park--Melbourne Harbor rookery",
+      "total_sightings": 883,
+      "lookback_days": 7,
+      "top_counties": [
+        "Orange",
+        "Pinellas",
+        "Sarasota"
+      ]
+    },
     {
       "date": "2026-06-02",
       "date_label": "Tue Jun 2",
