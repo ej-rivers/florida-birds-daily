@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-06-03T15:48:49.347Z",
+  "generated_at": "2026-06-04T14:06:53.741Z",
   "entries": [
+    {
+      "date": "2026-06-04",
+      "date_label": "Thu Jun 4",
+      "common_name": "Red-winged Blackbird",
+      "scientific_name": "Agelaius phoeniceus",
+      "species_code": "rewbla",
+      "url": "/florida-birds-daily/2026/06/04.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/0/02/Blackbird-sunset-03.jpg",
+      "region_label": "Paynes Prairie Preserve SP--US-441 observation deck",
+      "lat": 29.5740753,
+      "lng": -82.3350487,
+      "location_name": "Paynes Prairie Preserve SP--US-441 observation deck",
+      "total_sightings": 871,
+      "lookback_days": 7,
+      "top_counties": [
+        "Orange",
+        "Pinellas",
+        "Alachua"
+      ]
+    },
     {
       "date": "2026-06-03",
       "date_label": "Wed Jun 3",
