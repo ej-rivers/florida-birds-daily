@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-06-04T14:06:53.741Z",
+  "generated_at": "2026-06-05T13:53:55.579Z",
   "entries": [
+    {
+      "date": "2026-06-05",
+      "date_label": "Fri Jun 5",
+      "common_name": "Wood Stork",
+      "scientific_name": "Mycteria americana",
+      "species_code": "woosto",
+      "url": "/florida-birds-daily/2026/06/05.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/WoodStorkWhole.JPG/1280px-WoodStorkWhole.JPG",
+      "region_label": "Embassy Drive Rookery",
+      "lat": 28.295245,
+      "lng": -82.704971,
+      "location_name": "Embassy Drive Rookery",
+      "total_sightings": 228,
+      "lookback_days": 7,
+      "top_counties": [
+        "Orange",
+        "Palm Beach",
+        "Alachua"
+      ]
+    },
     {
       "date": "2026-06-04",
       "date_label": "Thu Jun 4",
