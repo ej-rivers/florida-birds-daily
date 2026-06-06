@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-06-05T13:53:55.579Z",
+  "generated_at": "2026-06-06T12:08:22.101Z",
   "entries": [
+    {
+      "date": "2026-06-06",
+      "date_label": "Sat Jun 6",
+      "common_name": "Black-necked Stilt",
+      "scientific_name": "Himantopus mexicanus",
+      "species_code": "bknsti",
+      "url": "/florida-birds-daily/2026/06/06.html",
+      "thumb": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+      "region_label": "US 27 Tower S of South Bay",
+      "lat": 26.4681144,
+      "lng": -80.6417084,
+      "location_name": "US 27 Tower S of South Bay",
+      "total_sightings": 146,
+      "lookback_days": 7,
+      "top_counties": [
+        "Sarasota",
+        "Palm Beach",
+        "Lee"
+      ]
+    },
     {
       "date": "2026-06-05",
       "date_label": "Fri Jun 5",
