@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-06-07T12:22:59.217Z",
+  "generated_at": "2026-06-08T14:50:09.216Z",
   "entries": [
+    {
+      "date": "2026-06-08",
+      "date_label": "Mon Jun 8",
+      "common_name": "White Ibis",
+      "scientific_name": "Eudocimus albus",
+      "species_code": "whiibi",
+      "url": "/florida-birds-daily/2026/06/08.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Eudocimus_albus_1.jpg/1280px-Eudocimus_albus_1.jpg",
+      "region_label": "Fishhawk Ranch Kestrel Ridge",
+      "lat": 27.8338391,
+      "lng": -82.2317433,
+      "location_name": "Fishhawk Ranch Kestrel Ridge",
+      "total_sightings": 1265,
+      "lookback_days": 7,
+      "top_counties": [
+        "Pinellas",
+        "Orange",
+        "Palm Beach"
+      ]
+    },
     {
       "date": "2026-06-07",
       "date_label": "Sun Jun 7",
