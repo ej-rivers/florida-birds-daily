@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-06-08T14:50:09.216Z",
+  "generated_at": "2026-06-09T13:45:38.408Z",
   "entries": [
+    {
+      "date": "2026-06-09",
+      "date_label": "Tue Jun 9",
+      "common_name": "Semipalmated Plover",
+      "scientific_name": "Charadrius semipalmatus",
+      "species_code": "semplo",
+      "url": "/florida-birds-daily/2026/06/09.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Semipalmated_plover_at_JBWR_%2830419%29.jpg/1280px-Semipalmated_plover_at_JBWR_%2830419%29.jpg",
+      "region_label": "Honeymoon Island SP - Oasis Ponds And Beach",
+      "lat": 28.0617214,
+      "lng": -82.8290545,
+      "location_name": "Honeymoon Island SP - Oasis Ponds And Beach",
+      "total_sightings": 57,
+      "lookback_days": 7,
+      "top_counties": [
+        "Pinellas",
+        "Volusia",
+        "Brevard"
+      ]
+    },
     {
       "date": "2026-06-08",
       "date_label": "Mon Jun 8",
