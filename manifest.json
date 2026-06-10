@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-06-09T13:45:38.408Z",
+  "generated_at": "2026-06-10T14:26:31.140Z",
   "entries": [
+    {
+      "date": "2026-06-10",
+      "date_label": "Wed Jun 10",
+      "common_name": "Black Skimmer",
+      "scientific_name": "Rynchops niger",
+      "species_code": "blkski",
+      "url": "/florida-birds-daily/2026/06/10.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Black_skimmer_%28Rynchops_niger%29_in_flight.jpg/1280px-Black_skimmer_%28Rynchops_niger%29_in_flight.jpg",
+      "region_label": "Clearwater Beach/Pier 60 Park",
+      "lat": 27.9772246,
+      "lng": -82.8288567,
+      "location_name": "Clearwater Beach/Pier 60 Park",
+      "total_sightings": 170,
+      "lookback_days": 7,
+      "top_counties": [
+        "Pinellas",
+        "Sarasota",
+        "Manatee"
+      ]
+    },
     {
       "date": "2026-06-09",
       "date_label": "Tue Jun 9",
