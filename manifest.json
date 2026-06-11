@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-06-10T14:26:31.140Z",
+  "generated_at": "2026-06-11T14:41:52.306Z",
   "entries": [
+    {
+      "date": "2026-06-11",
+      "date_label": "Thu Jun 11",
+      "common_name": "Wild Turkey",
+      "scientific_name": "Meleagris gallopavo",
+      "species_code": "wiltur",
+      "url": "/florida-birds-daily/2026/06/11.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Wild_Turkey_%2825473218982%29.jpg/1280px-Wild_Turkey_%2825473218982%29.jpg",
+      "region_label": "NW Christmas Road",
+      "lat": 28.5617634,
+      "lng": -81.0316718,
+      "location_name": "NW Christmas Road",
+      "total_sightings": 35,
+      "lookback_days": 7,
+      "top_counties": [
+        "Alachua",
+        "Brevard",
+        "Clay"
+      ]
+    },
     {
       "date": "2026-06-10",
       "date_label": "Wed Jun 10",
