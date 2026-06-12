@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-06-11T14:41:52.306Z",
+  "generated_at": "2026-06-12T14:11:40.310Z",
   "entries": [
+    {
+      "date": "2026-06-12",
+      "date_label": "Fri Jun 12",
+      "common_name": "Tufted Titmouse",
+      "scientific_name": "Baeolophus bicolor",
+      "species_code": "tuftit",
+      "url": "/florida-birds-daily/2026/06/12.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Baeolophus_bicolor_15.jpeg/1280px-Baeolophus_bicolor_15.jpeg",
+      "region_label": "Cuscowilla Retreat and Nature Center",
+      "lat": 29.533896,
+      "lng": -82.31813,
+      "location_name": "Cuscowilla Retreat and Nature Center",
+      "total_sightings": 162,
+      "lookback_days": 7,
+      "top_counties": [
+        "Alachua",
+        "Clay",
+        "Brevard"
+      ]
+    },
     {
       "date": "2026-06-11",
       "date_label": "Thu Jun 11",
