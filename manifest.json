@@ -1,7 +1,26 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-06-13T12:52:37.720Z",
+  "generated_at": "2026-06-14T13:00:57.581Z",
   "entries": [
+    {
+      "date": "2026-06-14",
+      "date_label": "Sun Jun 14",
+      "common_name": "Canada Goose",
+      "scientific_name": "Branta canadensis",
+      "species_code": "cangoo",
+      "url": "/florida-birds-daily/2026/06/14.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/7/74/Canadagoose.jpg",
+      "region_label": "Nancy Lopez Legacy Golf",
+      "lat": 28.971987,
+      "lng": -82.007814,
+      "location_name": "Nancy Lopez Legacy Golf",
+      "total_sightings": 5,
+      "lookback_days": 7,
+      "top_counties": [
+        "Clay",
+        "Brevard"
+      ]
+    },
     {
       "date": "2026-06-13",
       "date_label": "Sat Jun 13",
