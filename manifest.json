@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-06-14T13:00:57.581Z",
+  "generated_at": "2026-06-15T16:20:24.584Z",
   "entries": [
+    {
+      "date": "2026-06-15",
+      "date_label": "Mon Jun 15",
+      "common_name": "Glossy Ibis",
+      "scientific_name": "Plegadis falcinellus",
+      "species_code": "gloibi",
+      "url": "/florida-birds-daily/2026/06/15.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Plegadis_falcinellus_%28aka%29_background_blurred.jpg/1280px-Plegadis_falcinellus_%28aka%29_background_blurred.jpg",
+      "region_label": "Wakodahatchee Wetlands",
+      "lat": 26.4781984,
+      "lng": -80.144738,
+      "location_name": "Wakodahatchee Wetlands",
+      "total_sightings": 205,
+      "lookback_days": 7,
+      "top_counties": [
+        "Orange",
+        "Palm Beach",
+        "Brevard"
+      ]
+    },
     {
       "date": "2026-06-14",
       "date_label": "Sun Jun 14",
