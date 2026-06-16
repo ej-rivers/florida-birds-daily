@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-06-15T16:20:24.584Z",
+  "generated_at": "2026-06-16T15:59:29.133Z",
   "entries": [
+    {
+      "date": "2026-06-16",
+      "date_label": "Tue Jun 16",
+      "common_name": "Barn Swallow",
+      "scientific_name": "Hirundo rustica",
+      "species_code": "barswa",
+      "url": "/florida-birds-daily/2026/06/16.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Hirundo_rustica_MHNT.jpg/1280px-Hirundo_rustica_MHNT.jpg",
+      "region_label": "Okaloosa County Veterans/Ross Marler Park",
+      "lat": 30.3983718,
+      "lng": -86.5917277,
+      "location_name": "Okaloosa County Veterans/Ross Marler Park",
+      "total_sightings": 101,
+      "lookback_days": 7,
+      "top_counties": [
+        "Alachua",
+        "Brevard",
+        "Palm Beach"
+      ]
+    },
     {
       "date": "2026-06-15",
       "date_label": "Mon Jun 15",
