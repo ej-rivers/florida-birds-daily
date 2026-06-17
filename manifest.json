@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-06-16T15:59:29.133Z",
+  "generated_at": "2026-06-17T14:27:15.481Z",
   "entries": [
+    {
+      "date": "2026-06-17",
+      "date_label": "Wed Jun 17",
+      "common_name": "Willet",
+      "scientific_name": "Tringa semipalmata",
+      "species_code": "willet1",
+      "url": "/florida-birds-daily/2026/06/17.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Catoptrophorus-semipalmatus-001.jpg/1280px-Catoptrophorus-semipalmatus-001.jpg",
+      "region_label": "Rookery  Bay NERR",
+      "lat": 25.9102416,
+      "lng": -81.6807811,
+      "location_name": "Rookery  Bay NERR",
+      "total_sightings": 85,
+      "lookback_days": 7,
+      "top_counties": [
+        "Lee",
+        "Pinellas",
+        "Brevard"
+      ]
+    },
     {
       "date": "2026-06-16",
       "date_label": "Tue Jun 16",
