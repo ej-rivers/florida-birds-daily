@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-06-17T14:27:15.481Z",
+  "generated_at": "2026-06-18T14:13:03.835Z",
   "entries": [
+    {
+      "date": "2026-06-18",
+      "date_label": "Thu Jun 18",
+      "common_name": "Northern Cardinal",
+      "scientific_name": "Cardinalis cardinalis",
+      "species_code": "norcar",
+      "url": "/florida-birds-daily/2026/06/18.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Cardinalis_cardinalis.jpg/1280px-Cardinalis_cardinalis.jpg",
+      "region_label": "Robinson/Vanderah Yard",
+      "lat": 29.4823054,
+      "lng": -82.2639419,
+      "location_name": "Robinson/Vanderah Yard",
+      "total_sightings": 590,
+      "lookback_days": 7,
+      "top_counties": [
+        "Alachua",
+        "Orange",
+        "Brevard"
+      ]
+    },
     {
       "date": "2026-06-17",
       "date_label": "Wed Jun 17",
