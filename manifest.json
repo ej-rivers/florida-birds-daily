@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-06-19T14:14:32.167Z",
+  "generated_at": "2026-06-20T12:27:33.403Z",
   "entries": [
+    {
+      "date": "2026-06-20",
+      "date_label": "Sat Jun 20",
+      "common_name": "Black Vulture",
+      "scientific_name": "Coragyps atratus",
+      "species_code": "blkvul",
+      "url": "/florida-birds-daily/2026/06/20.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Coragyps-atratus-002.jpg",
+      "region_label": "Brooksville (Downtown areas)",
+      "lat": 28.5537766,
+      "lng": -82.3895551,
+      "location_name": "Brooksville (Downtown areas)",
+      "total_sightings": 133,
+      "lookback_days": 7,
+      "top_counties": [
+        "Alachua",
+        "Brevard",
+        "Charlotte"
+      ]
+    },
     {
       "date": "2026-06-19",
       "date_label": "Fri Jun 19",
