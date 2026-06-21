@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-06-20T12:27:33.403Z",
+  "generated_at": "2026-06-21T13:10:20.157Z",
   "entries": [
+    {
+      "date": "2026-06-21",
+      "date_label": "Sun Jun 21",
+      "common_name": "Purple Martin",
+      "scientific_name": "Progne subis",
+      "species_code": "purmar",
+      "url": "/florida-birds-daily/2026/06/21.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Purple_Martin_6870.jpg/1280px-Purple_Martin_6870.jpg",
+      "region_label": "Peaceful Waters Sanctuary",
+      "lat": 26.631443,
+      "lng": -80.2332294,
+      "location_name": "Peaceful Waters Sanctuary",
+      "total_sightings": 114,
+      "lookback_days": 7,
+      "top_counties": [
+        "Alachua",
+        "Miami-Dade",
+        "Lake"
+      ]
+    },
     {
       "date": "2026-06-20",
       "date_label": "Sat Jun 20",
