@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-06-21T13:10:20.157Z",
+  "generated_at": "2026-06-22T15:56:50.304Z",
   "entries": [
+    {
+      "date": "2026-06-22",
+      "date_label": "Mon Jun 22",
+      "common_name": "Common Gallinule",
+      "scientific_name": "Gallinula galeata",
+      "species_code": "comgal1",
+      "url": "/florida-birds-daily/2026/06/22.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Gallinula_galeata_NBII.jpg/1280px-Gallinula_galeata_NBII.jpg",
+      "region_label": "Marco Island--Mackle Park",
+      "lat": 25.9299508,
+      "lng": -81.7132509,
+      "location_name": "Marco Island--Mackle Park",
+      "total_sightings": 115,
+      "lookback_days": 7,
+      "top_counties": [
+        "Alachua",
+        "Broward",
+        "Hillsborough"
+      ]
+    },
     {
       "date": "2026-06-21",
       "date_label": "Sun Jun 21",
