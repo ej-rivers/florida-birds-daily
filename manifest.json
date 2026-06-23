@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-06-22T15:56:50.304Z",
+  "generated_at": "2026-06-23T13:44:10.301Z",
   "entries": [
+    {
+      "date": "2026-06-23",
+      "date_label": "Tue Jun 23",
+      "common_name": "Muscovy Duck",
+      "scientific_name": "Cairina moschata",
+      "species_code": "musduc",
+      "url": "/florida-birds-daily/2026/06/23.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Cairina_moschata-2.jpg/1280px-Cairina_moschata-2.jpg",
+      "region_label": "Second St, Fort Myers Shores",
+      "lat": 26.7060054,
+      "lng": -81.7498095,
+      "location_name": "Second St, Fort Myers Shores",
+      "total_sightings": 47,
+      "lookback_days": 7,
+      "top_counties": [
+        "Broward",
+        "Duval",
+        "Alachua"
+      ]
+    },
     {
       "date": "2026-06-22",
       "date_label": "Mon Jun 22",
