@@ -1,7 +1,21 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-06-23T13:44:10.301Z",
+  "generated_at": "2026-06-24T13:24:55.401Z",
   "entries": [
+    {
+      "date": "2026-06-24",
+      "date_label": "Wed Jun 24",
+      "common_name": "Cave Swallow",
+      "scientific_name": "Petrochelidon fulva",
+      "species_code": "cavswa",
+      "url": "/florida-birds-daily/2026/06/24.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Petrochelidon_fulva_190425291.jpg/1280px-Petrochelidon_fulva_190425291.jpg",
+      "region_label": "Portofino Plaza Swallow Colony",
+      "lat": 25.4747572,
+      "lng": -80.4456301,
+      "location_name": "Portofino Plaza Swallow Colony",
+      "lookback_days": 7
+    },
     {
       "date": "2026-06-23",
       "date_label": "Tue Jun 23",
