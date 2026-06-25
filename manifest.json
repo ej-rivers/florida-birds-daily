@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-06-24T13:24:55.401Z",
+  "generated_at": "2026-06-25T13:22:18.936Z",
   "entries": [
+    {
+      "date": "2026-06-25",
+      "date_label": "Thu Jun 25",
+      "common_name": "American Crow",
+      "scientific_name": "Corvus brachyrhynchos",
+      "species_code": "amecro",
+      "url": "/florida-birds-daily/2026/06/25.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Corvus_caurinus_%28profile%29.jpg/1280px-Corvus_caurinus_%28profile%29.jpg",
+      "region_label": "KOCF South (Restricted Access)",
+      "lat": 29.1541334,
+      "lng": -82.2230928,
+      "location_name": "KOCF South (Restricted Access)",
+      "total_sightings": 267,
+      "lookback_days": 7,
+      "top_counties": [
+        "Alachua",
+        "Duval",
+        "Marion"
+      ]
+    },
     {
       "date": "2026-06-24",
       "date_label": "Wed Jun 24",
