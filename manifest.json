@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-06-26T13:14:30.376Z",
+  "generated_at": "2026-06-27T12:10:30.304Z",
   "entries": [
+    {
+      "date": "2026-06-27",
+      "date_label": "Sat Jun 27",
+      "common_name": "European Starling",
+      "scientific_name": "Sturnus vulgaris",
+      "species_code": "eursta",
+      "url": "/florida-birds-daily/2026/06/27.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Sturnus_vulgaris_-California-8.jpg/1280px-Sturnus_vulgaris_-California-8.jpg",
+      "region_label": "Innovation Park--Sliger & CoE pond",
+      "lat": 30.4225777,
+      "lng": -84.3223429,
+      "location_name": "Innovation Park--Sliger & CoE pond",
+      "total_sightings": 111,
+      "lookback_days": 7,
+      "top_counties": [
+        "Broward",
+        "Brevard",
+        "Collier"
+      ]
+    },
     {
       "date": "2026-06-26",
       "date_label": "Fri Jun 26",
