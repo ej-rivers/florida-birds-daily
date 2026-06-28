@@ -1,7 +1,21 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-06-27T12:10:30.304Z",
+  "generated_at": "2026-06-28T12:18:20.301Z",
   "entries": [
+    {
+      "date": "2026-06-28",
+      "date_label": "Sun Jun 28",
+      "common_name": "Cliff Swallow",
+      "scientific_name": "Petrochelidon pyrrhonota",
+      "species_code": "cliswa",
+      "url": "/florida-birds-daily/2026/06/28.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Cliff_swallow_7237.jpg/1280px-Cliff_swallow_7237.jpg",
+      "region_label": "SR-50 St. John's River Bridge (Orange co.)",
+      "lat": 28.5427967,
+      "lng": -80.9429526,
+      "location_name": "SR-50 St. John's River Bridge (Orange co.)",
+      "lookback_days": 7
+    },
     {
       "date": "2026-06-27",
       "date_label": "Sat Jun 27",
