@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-06-28T12:18:20.301Z",
+  "generated_at": "2026-06-29T14:48:24.172Z",
   "entries": [
+    {
+      "date": "2026-06-29",
+      "date_label": "Mon Jun 29",
+      "common_name": "Brown Pelican",
+      "scientific_name": "Pelecanus occidentalis",
+      "species_code": "brnpel",
+      "url": "/florida-birds-daily/2026/06/29.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Brown-Pelican-Ponce-Inlet-FL.jpg/1280px-Brown-Pelican-Ponce-Inlet-FL.jpg",
+      "region_label": "Auto selected 29.34314, -81.06295",
+      "lat": 29.343142,
+      "lng": -81.062949,
+      "location_name": "Auto selected 29.34314, -81.06295",
+      "total_sightings": 150,
+      "lookback_days": 7,
+      "top_counties": [
+        "Brevard",
+        "Duval",
+        "Escambia"
+      ]
+    },
     {
       "date": "2026-06-28",
       "date_label": "Sun Jun 28",
