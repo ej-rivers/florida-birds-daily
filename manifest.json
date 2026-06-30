@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-06-29T14:48:24.172Z",
+  "generated_at": "2026-06-30T13:10:10.413Z",
   "entries": [
+    {
+      "date": "2026-06-30",
+      "date_label": "Tue Jun 30",
+      "common_name": "Eastern Bluebird",
+      "scientific_name": "Sialia sialis",
+      "species_code": "easblu",
+      "url": "/florida-birds-daily/2026/06/30.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/20241109_eastern_bluebird_gay_city_PD202910.jpg/1280px-20241109_eastern_bluebird_gay_city_PD202910.jpg",
+      "region_label": "Timberwood Northwest",
+      "lat": 29.1538104,
+      "lng": -82.2140659,
+      "location_name": "Timberwood Northwest",
+      "total_sightings": 171,
+      "lookback_days": 7,
+      "top_counties": [
+        "Duval",
+        "Alachua",
+        "Hernando"
+      ]
+    },
     {
       "date": "2026-06-29",
       "date_label": "Mon Jun 29",
