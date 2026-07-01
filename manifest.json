@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-06-30T13:10:10.413Z",
+  "generated_at": "2026-07-01T13:35:06.154Z",
   "entries": [
+    {
+      "date": "2026-07-01",
+      "date_label": "Wed Jul 1",
+      "common_name": "Rock Pigeon",
+      "scientific_name": "Columba livia",
+      "species_code": "rocpig",
+      "url": "/florida-birds-daily/2026/07/01.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Pigeon_portrait_4861.jpg/1280px-Pigeon_portrait_4861.jpg",
+      "region_label": "Cocoa Beach Pier",
+      "lat": 28.3677641,
+      "lng": -80.6017703,
+      "location_name": "Cocoa Beach Pier",
+      "total_sightings": 82,
+      "lookback_days": 7,
+      "top_counties": [
+        "Brevard",
+        "Broward",
+        "Charlotte"
+      ]
+    },
     {
       "date": "2026-06-30",
       "date_label": "Tue Jun 30",
