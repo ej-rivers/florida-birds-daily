@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-07-01T13:35:06.154Z",
+  "generated_at": "2026-07-02T13:00:22.045Z",
   "entries": [
+    {
+      "date": "2026-07-02",
+      "date_label": "Thu Jul 2",
+      "common_name": "Boat-tailed Grackle",
+      "scientific_name": "Quiscalus major",
+      "species_code": "botgra",
+      "url": "/florida-birds-daily/2026/07/02.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Quiscalus_major_-Three_Lakes_Wildlife_Management_Area%2C_Florida%2C_USA_-male-8.jpg/1280px-Quiscalus_major_-Three_Lakes_Wildlife_Management_Area%2C_Florida%2C_USA_-male-8.jpg",
+      "region_label": "Lake Jackson Fish Pier",
+      "lat": 27.494413,
+      "lng": -81.4452888,
+      "location_name": "Lake Jackson Fish Pier",
+      "total_sightings": 232,
+      "lookback_days": 7,
+      "top_counties": [
+        "Brevard",
+        "Broward",
+        "Alachua"
+      ]
+    },
     {
       "date": "2026-07-01",
       "date_label": "Wed Jul 1",
