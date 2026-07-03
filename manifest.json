@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-07-02T13:00:22.045Z",
+  "generated_at": "2026-07-03T12:58:25.203Z",
   "entries": [
+    {
+      "date": "2026-07-03",
+      "date_label": "Fri Jul 3",
+      "common_name": "White-winged Dove",
+      "scientific_name": "Zenaida asiatica",
+      "species_code": "whwdov",
+      "url": "/florida-birds-daily/2026/07/03.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Zenaida_asiatica_-Tuscon_-Arizona_-USA_-8a.jpg",
+      "region_label": "Lake Jackson Fish Pier",
+      "lat": 27.494413,
+      "lng": -81.4452888,
+      "location_name": "Lake Jackson Fish Pier",
+      "total_sightings": 52,
+      "lookback_days": 7,
+      "top_counties": [
+        "Broward",
+        "Highlands",
+        "Charlotte"
+      ]
+    },
     {
       "date": "2026-07-02",
       "date_label": "Thu Jul 2",
