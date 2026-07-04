@@ -1,7 +1,25 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-07-03T12:58:25.203Z",
+  "generated_at": "2026-07-04T12:09:13.690Z",
   "entries": [
+    {
+      "date": "2026-07-04",
+      "date_label": "Sat Jul 4",
+      "common_name": "Red-masked Parakeet",
+      "scientific_name": "Psittacara erythrogenys",
+      "species_code": "rempar",
+      "url": "/florida-birds-daily/2026/07/04.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Red-masked_Parakeet-Aratinga_erythrogenys_in_a_tree.jpg/1280px-Red-masked_Parakeet-Aratinga_erythrogenys_in_a_tree.jpg",
+      "region_label": "Country Golf Biltmore Hotel",
+      "lat": 25.7372681,
+      "lng": -80.2780632,
+      "location_name": "Country Golf Biltmore Hotel",
+      "total_sightings": 4,
+      "lookback_days": 7,
+      "top_counties": [
+        "Broward"
+      ]
+    },
     {
       "date": "2026-07-03",
       "date_label": "Fri Jul 3",
