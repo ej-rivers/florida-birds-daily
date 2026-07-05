@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-07-04T12:09:13.690Z",
+  "generated_at": "2026-07-05T12:19:11.486Z",
   "entries": [
+    {
+      "date": "2026-07-05",
+      "date_label": "Sun Jul 5",
+      "common_name": "Roseate Spoonbill",
+      "scientific_name": "Platalea ajaja",
+      "species_code": "rosspo1",
+      "url": "/florida-birds-daily/2026/07/05.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Rosa_L%C3%B6ffler_%28Platalea_ajaja%29-001.jpg/1280px-Rosa_L%C3%B6ffler_%28Platalea_ajaja%29-001.jpg",
+      "region_label": "Carlos Pointe",
+      "lat": 26.4031136,
+      "lng": -81.8859959,
+      "location_name": "Carlos Pointe",
+      "total_sightings": 39,
+      "lookback_days": 7,
+      "top_counties": [
+        "Brevard",
+        "Duval",
+        "Hillsborough"
+      ]
+    },
     {
       "date": "2026-07-04",
       "date_label": "Sat Jul 4",
