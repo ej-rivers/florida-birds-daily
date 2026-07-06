@@ -1,7 +1,21 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-07-05T12:19:11.486Z",
+  "generated_at": "2026-07-06T14:29:28.754Z",
   "entries": [
+    {
+      "date": "2026-07-06",
+      "date_label": "Mon Jul 6",
+      "common_name": "Brown Noddy",
+      "scientific_name": "Anous stolidus",
+      "species_code": "brnnod",
+      "url": "/florida-birds-daily/2026/07/06.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Anous_stolidus_galapagensis%2C_isla_Santa_Cruz%2C_islas_Gal%C3%A1pagos%2C_Ecuador%2C_2015-07-26%2C_DD_41.jpg/1280px-Anous_stolidus_galapagensis%2C_isla_Santa_Cruz%2C_islas_Gal%C3%A1pagos%2C_Ecuador%2C_2015-07-26%2C_DD_41.jpg",
+      "region_label": "Dry Tortugas NP--Garden Key",
+      "lat": 24.6276,
+      "lng": -82.8728,
+      "location_name": "Dry Tortugas NP--Garden Key",
+      "lookback_days": 7
+    },
     {
       "date": "2026-07-05",
       "date_label": "Sun Jul 5",
