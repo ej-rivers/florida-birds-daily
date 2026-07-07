@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-07-06T14:29:28.754Z",
+  "generated_at": "2026-07-07T13:22:35.252Z",
   "entries": [
+    {
+      "date": "2026-07-07",
+      "date_label": "Tue Jul 7",
+      "common_name": "Indian Peafowl",
+      "scientific_name": "Pavo cristatus",
+      "species_code": "compea",
+      "url": "/florida-birds-daily/2026/07/07.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Pavo_cristatus_head001xx.jpg",
+      "region_label": "Jungle Prada de Navaez Park",
+      "lat": 27.788522,
+      "lng": -82.753563,
+      "location_name": "Jungle Prada de Navaez Park",
+      "total_sightings": 9,
+      "lookback_days": 7,
+      "top_counties": [
+        "Brevard",
+        "Duval",
+        "Broward"
+      ]
+    },
     {
       "date": "2026-07-06",
       "date_label": "Mon Jul 6",
