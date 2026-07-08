@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-07-07T13:22:35.252Z",
+  "generated_at": "2026-07-08T12:22:41.138Z",
   "entries": [
+    {
+      "date": "2026-07-08",
+      "date_label": "Wed Jul 8",
+      "common_name": "Sandwich Tern",
+      "scientific_name": "Thalasseus sandvicensis",
+      "species_code": "santer1",
+      "url": "/florida-birds-daily/2026/07/08.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Thalasseus_sandvicensis_-_Sandwich_Tern%2C_Adana_2016-11-05_01-1.jpg/1280px-Thalasseus_sandvicensis_-_Sandwich_Tern%2C_Adana_2016-11-05_01-1.jpg",
+      "region_label": "North Lido Beach Park",
+      "lat": 27.3167045,
+      "lng": -82.583995,
+      "location_name": "North Lido Beach Park",
+      "total_sightings": 20,
+      "lookback_days": 7,
+      "top_counties": [
+        "Charlotte",
+        "Duval",
+        "Escambia"
+      ]
+    },
     {
       "date": "2026-07-07",
       "date_label": "Tue Jul 7",
