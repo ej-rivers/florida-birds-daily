@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-07-08T12:22:41.138Z",
+  "generated_at": "2026-07-09T13:51:19.176Z",
   "entries": [
+    {
+      "date": "2026-07-09",
+      "date_label": "Thu Jul 9",
+      "common_name": "Laughing Gull",
+      "scientific_name": "Leucophaeus atricilla",
+      "species_code": "laugul",
+      "url": "/florida-birds-daily/2026/07/09.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Leucophaeus_atricilla_stare.jpg/1280px-Leucophaeus_atricilla_stare.jpg",
+      "region_label": "Causeway Islands Park",
+      "lat": 26.4797157,
+      "lng": -82.02281,
+      "location_name": "Causeway Islands Park",
+      "total_sightings": 206,
+      "lookback_days": 7,
+      "top_counties": [
+        "Duval",
+        "Hillsborough",
+        "Brevard"
+      ]
+    },
     {
       "date": "2026-07-08",
       "date_label": "Wed Jul 8",
