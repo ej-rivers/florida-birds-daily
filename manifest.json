@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-07-10T13:14:33.393Z",
+  "generated_at": "2026-07-11T11:55:28.092Z",
   "entries": [
+    {
+      "date": "2026-07-11",
+      "date_label": "Sat Jul 11",
+      "common_name": "Brown-headed Cowbird",
+      "scientific_name": "Molothrus ater",
+      "species_code": "bnhcow",
+      "url": "/florida-birds-daily/2026/07/11.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Molothrus_ater_immature_CT.jpg/1280px-Molothrus_ater_immature_CT.jpg",
+      "region_label": "Rhoden Cove Road Landing",
+      "lat": 30.5136017,
+      "lng": -84.2949014,
+      "location_name": "Rhoden Cove Road Landing",
+      "total_sightings": 41,
+      "lookback_days": 7,
+      "top_counties": [
+        "Alachua",
+        "Duval",
+        "Collier"
+      ]
+    },
     {
       "date": "2026-07-10",
       "date_label": "Fri Jul 10",
