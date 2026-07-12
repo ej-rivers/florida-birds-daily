@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-07-11T11:55:28.092Z",
+  "generated_at": "2026-07-12T12:02:19.049Z",
   "entries": [
+    {
+      "date": "2026-07-12",
+      "date_label": "Sun Jul 12",
+      "common_name": "Common Grackle",
+      "scientific_name": "Quiscalus quiscula",
+      "species_code": "comgra",
+      "url": "/florida-birds-daily/2026/07/12.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Quiscalus-quiscula-001.jpg",
+      "region_label": "Casa de las numerosas tortugas",
+      "lat": 29.6168298,
+      "lng": -82.4491498,
+      "location_name": "Casa de las numerosas tortugas",
+      "total_sightings": 139,
+      "lookback_days": 7,
+      "top_counties": [
+        "Brevard",
+        "Broward",
+        "Collier"
+      ]
+    },
     {
       "date": "2026-07-11",
       "date_label": "Sat Jul 11",
