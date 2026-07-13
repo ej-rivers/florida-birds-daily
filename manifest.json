@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-07-12T12:02:19.049Z",
+  "generated_at": "2026-07-13T13:26:57.213Z",
   "entries": [
+    {
+      "date": "2026-07-13",
+      "date_label": "Mon Jul 13",
+      "common_name": "Turkey Vulture",
+      "scientific_name": "Cathartes aura",
+      "species_code": "turvul",
+      "url": "/florida-birds-daily/2026/07/13.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Marin_Headlands_with_Rodeo_Beach.jpg/1280px-Marin_Headlands_with_Rodeo_Beach.jpg",
+      "region_label": "FSPSP-barrow pits near Jones Grade",
+      "lat": 26.1479469,
+      "lng": -81.3514007,
+      "location_name": "FSPSP-barrow pits near Jones Grade",
+      "total_sightings": 121,
+      "lookback_days": 7,
+      "top_counties": [
+        "Alachua",
+        "Brevard",
+        "Duval"
+      ]
+    },
     {
       "date": "2026-07-12",
       "date_label": "Sun Jul 12",
