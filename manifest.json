@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-07-13T13:26:57.213Z",
+  "generated_at": "2026-07-14T12:17:28.354Z",
   "entries": [
+    {
+      "date": "2026-07-14",
+      "date_label": "Tue Jul 14",
+      "common_name": "Mourning Dove",
+      "scientific_name": "Zenaida macroura",
+      "species_code": "moudov",
+      "url": "/florida-birds-daily/2026/07/14.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Mourning_dove_perched_%2861179%29.jpg/1280px-Mourning_dove_perched_%2861179%29.jpg",
+      "region_label": "Mod Dog",
+      "lat": 26.344175,
+      "lng": -80.0877135,
+      "location_name": "Mod Dog",
+      "total_sightings": 327,
+      "lookback_days": 7,
+      "top_counties": [
+        "Brevard",
+        "Alachua",
+        "Duval"
+      ]
+    },
     {
       "date": "2026-07-13",
       "date_label": "Mon Jul 13",
