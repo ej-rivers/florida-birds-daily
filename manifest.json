@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-07-14T12:17:28.354Z",
+  "generated_at": "2026-07-15T12:18:12.202Z",
   "entries": [
+    {
+      "date": "2026-07-15",
+      "date_label": "Wed Jul 15",
+      "common_name": "Least Sandpiper",
+      "scientific_name": "Calidris minutilla",
+      "species_code": "leasan",
+      "url": "/florida-birds-daily/2026/07/15.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Least_sandpiper_in_JBWR_%2825078%29.jpg/1280px-Least_sandpiper_in_JBWR_%2825078%29.jpg",
+      "region_label": "Three Lakes WMA--Hwy. 60 unit",
+      "lat": 27.8326657,
+      "lng": -81.1449337,
+      "location_name": "Three Lakes WMA--Hwy. 60 unit",
+      "total_sightings": 17,
+      "lookback_days": 7,
+      "top_counties": [
+        "Pinellas",
+        "Alachua",
+        "Collier"
+      ]
+    },
     {
       "date": "2026-07-14",
       "date_label": "Tue Jul 14",
