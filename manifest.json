@@ -1,7 +1,21 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-07-15T12:18:12.202Z",
+  "generated_at": "2026-07-16T12:22:35.364Z",
   "entries": [
+    {
+      "date": "2026-07-16",
+      "date_label": "Thu Jul 16",
+      "common_name": "Sooty Tern",
+      "scientific_name": "Onychoprion fuscatus",
+      "species_code": "sooter1",
+      "url": "/florida-birds-daily/2026/07/16.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Sterna_fuscata.JPG/1280px-Sterna_fuscata.JPG",
+      "region_label": "Dry Tortugas NP--Bush Key",
+      "lat": 24.6277,
+      "lng": -82.8661,
+      "location_name": "Dry Tortugas NP--Bush Key",
+      "lookback_days": 7
+    },
     {
       "date": "2026-07-15",
       "date_label": "Wed Jul 15",
