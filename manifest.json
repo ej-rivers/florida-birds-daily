@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-07-17T12:12:51.640Z",
+  "generated_at": "2026-07-18T11:54:54.678Z",
   "entries": [
+    {
+      "date": "2026-07-18",
+      "date_label": "Sat Jul 18",
+      "common_name": "Snowy Egret",
+      "scientific_name": "Egretta thula",
+      "species_code": "snoegr",
+      "url": "/florida-birds-daily/2026/07/18.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/8/81/Egretta_thula1.jpg",
+      "region_label": "Bird Island (Island I-25)",
+      "lat": 27.9657687,
+      "lng": -82.8148127,
+      "location_name": "Bird Island (Island I-25)",
+      "total_sightings": 137,
+      "lookback_days": 7,
+      "top_counties": [
+        "Brevard",
+        "Alachua",
+        "Duval"
+      ]
+    },
     {
       "date": "2026-07-17",
       "date_label": "Fri Jul 17",
