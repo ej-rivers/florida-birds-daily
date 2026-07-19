@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-07-18T11:54:54.678Z",
+  "generated_at": "2026-07-19T12:01:29.178Z",
   "entries": [
+    {
+      "date": "2026-07-19",
+      "date_label": "Sun Jul 19",
+      "common_name": "Sanderling",
+      "scientific_name": "Calidris alba",
+      "species_code": "sander",
+      "url": "/florida-birds-daily/2026/07/19.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Calidris_alba_portrait.JPG/1280px-Calidris_alba_portrait.JPG",
+      "region_label": "Indiatlantic Beach",
+      "lat": 28.0865201,
+      "lng": -80.5606842,
+      "location_name": "Indiatlantic Beach",
+      "total_sightings": 23,
+      "lookback_days": 7,
+      "top_counties": [
+        "Collier",
+        "Brevard",
+        "Escambia"
+      ]
+    },
     {
       "date": "2026-07-18",
       "date_label": "Sat Jul 18",
