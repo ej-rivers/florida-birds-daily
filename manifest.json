@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-07-19T12:01:29.178Z",
+  "generated_at": "2026-07-20T13:09:00.699Z",
   "entries": [
+    {
+      "date": "2026-07-20",
+      "date_label": "Mon Jul 20",
+      "common_name": "Wood Stork",
+      "scientific_name": "Mycteria americana",
+      "species_code": "woosto",
+      "url": "/florida-birds-daily/2026/07/20.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/WoodStorkWhole.JPG/1280px-WoodStorkWhole.JPG",
+      "region_label": "Wakodahatchee Wetlands",
+      "lat": 26.4781984,
+      "lng": -80.144738,
+      "location_name": "Wakodahatchee Wetlands",
+      "total_sightings": 68,
+      "lookback_days": 7,
+      "top_counties": [
+        "Palm Beach",
+        "Brevard",
+        "Alachua"
+      ]
+    },
     {
       "date": "2026-07-19",
       "date_label": "Sun Jul 19",
