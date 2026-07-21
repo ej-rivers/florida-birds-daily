@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-07-20T13:09:00.699Z",
+  "generated_at": "2026-07-21T12:24:47.047Z",
   "entries": [
+    {
+      "date": "2026-07-21",
+      "date_label": "Tue Jul 21",
+      "common_name": "Black Skimmer",
+      "scientific_name": "Rynchops niger",
+      "species_code": "blkski",
+      "url": "/florida-birds-daily/2026/07/21.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Black_skimmer_%28Rynchops_niger%29_in_flight.jpg/1280px-Black_skimmer_%28Rynchops_niger%29_in_flight.jpg",
+      "region_label": "North Lido Beach Park",
+      "lat": 27.3167045,
+      "lng": -82.583995,
+      "location_name": "North Lido Beach Park",
+      "total_sightings": 24,
+      "lookback_days": 7,
+      "top_counties": [
+        "Collier",
+        "Duval",
+        "Escambia"
+      ]
+    },
     {
       "date": "2026-07-20",
       "date_label": "Mon Jul 20",
