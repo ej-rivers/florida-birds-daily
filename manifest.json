@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-07-21T12:24:47.047Z",
+  "generated_at": "2026-07-22T12:27:16.229Z",
   "entries": [
+    {
+      "date": "2026-07-22",
+      "date_label": "Wed Jul 22",
+      "common_name": "Least Tern",
+      "scientific_name": "Sternula antillarum",
+      "species_code": "leater1",
+      "url": "/florida-birds-daily/2026/07/22.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Sternula_antillarum_-Atlantic_coast%2C_New_Jersey%2C_USA-8_%281%29.jpg/1280px-Sternula_antillarum_-Atlantic_coast%2C_New_Jersey%2C_USA-8_%281%29.jpg",
+      "region_label": "North Lido Beach Park",
+      "lat": 27.3167045,
+      "lng": -82.583995,
+      "location_name": "North Lido Beach Park",
+      "total_sightings": 73,
+      "lookback_days": 7,
+      "top_counties": [
+        "Brevard",
+        "Collier",
+        "Escambia"
+      ]
+    },
     {
       "date": "2026-07-21",
       "date_label": "Tue Jul 21",
