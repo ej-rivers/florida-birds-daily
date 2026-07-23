@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-07-22T12:27:16.229Z",
+  "generated_at": "2026-07-23T12:25:39.995Z",
   "entries": [
+    {
+      "date": "2026-07-23",
+      "date_label": "Thu Jul 23",
+      "common_name": "Royal Tern",
+      "scientific_name": "Thalasseus maximus",
+      "species_code": "royter1",
+      "url": "/florida-birds-daily/2026/07/23.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Thalasseus_maximus_flight.jpg",
+      "region_label": "Lido Key Beach",
+      "lat": 27.3116887,
+      "lng": -82.5773835,
+      "location_name": "Lido Key Beach",
+      "total_sightings": 103,
+      "lookback_days": 7,
+      "top_counties": [
+        "Brevard",
+        "Duval",
+        "Collier"
+      ]
+    },
     {
       "date": "2026-07-22",
       "date_label": "Wed Jul 22",
