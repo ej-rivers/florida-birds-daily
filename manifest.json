@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-07-23T12:25:39.995Z",
+  "generated_at": "2026-07-24T12:22:15.083Z",
   "entries": [
+    {
+      "date": "2026-07-24",
+      "date_label": "Fri Jul 24",
+      "common_name": "Black Vulture",
+      "scientific_name": "Coragyps atratus",
+      "species_code": "blkvul",
+      "url": "/florida-birds-daily/2026/07/24.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Coragyps-atratus-002.jpg",
+      "region_label": "Staybridge suites ponds",
+      "lat": 28.390006,
+      "lng": -81.5047177,
+      "location_name": "Staybridge suites ponds",
+      "total_sightings": 120,
+      "lookback_days": 7,
+      "top_counties": [
+        "Brevard",
+        "Alachua",
+        "Duval"
+      ]
+    },
     {
       "date": "2026-07-23",
       "date_label": "Thu Jul 23",
