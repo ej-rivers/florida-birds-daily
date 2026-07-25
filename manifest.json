@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-07-24T12:22:15.083Z",
+  "generated_at": "2026-07-25T12:04:14.341Z",
   "entries": [
+    {
+      "date": "2026-07-25",
+      "date_label": "Sat Jul 25",
+      "common_name": "Red-winged Blackbird",
+      "scientific_name": "Agelaius phoeniceus",
+      "species_code": "rewbla",
+      "url": "/florida-birds-daily/2026/07/25.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/0/02/Blackbird-sunset-03.jpg",
+      "region_label": "New World Avenue Wetlands (POW MIA Mem Pkwy)",
+      "lat": 30.2625886,
+      "lng": -81.8862534,
+      "location_name": "New World Avenue Wetlands (POW MIA Mem Pkwy)",
+      "total_sightings": 123,
+      "lookback_days": 7,
+      "top_counties": [
+        "Brevard",
+        "Alachua",
+        "Collier"
+      ]
+    },
     {
       "date": "2026-07-24",
       "date_label": "Fri Jul 24",
