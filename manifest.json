@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-07-25T12:04:14.341Z",
+  "generated_at": "2026-07-26T12:06:15.024Z",
   "entries": [
+    {
+      "date": "2026-07-26",
+      "date_label": "Sun Jul 26",
+      "common_name": "Canada Goose",
+      "scientific_name": "Branta canadensis",
+      "species_code": "cangoo",
+      "url": "/florida-birds-daily/2026/07/26.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/7/74/Canadagoose.jpg",
+      "region_label": "Harriman Circle Park",
+      "lat": 30.4745686,
+      "lng": -84.2529586,
+      "location_name": "Harriman Circle Park",
+      "total_sightings": 26,
+      "lookback_days": 7,
+      "top_counties": [
+        "Duval",
+        "Gadsden",
+        "Clay"
+      ]
+    },
     {
       "date": "2026-07-25",
       "date_label": "Sat Jul 25",
