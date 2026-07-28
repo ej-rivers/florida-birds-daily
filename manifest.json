@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-07-27T13:40:21.917Z",
+  "generated_at": "2026-07-28T12:56:24.093Z",
   "entries": [
+    {
+      "date": "2026-07-28",
+      "date_label": "Tue Jul 28",
+      "common_name": "Willet",
+      "scientific_name": "Tringa semipalmata",
+      "species_code": "willet1",
+      "url": "/florida-birds-daily/2026/07/28.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Catoptrophorus-semipalmatus-001.jpg/1280px-Catoptrophorus-semipalmatus-001.jpg",
+      "region_label": "26th Street Shorebird Buffer Zone",
+      "lat": 27.4833941,
+      "lng": -82.7060759,
+      "location_name": "26th Street Shorebird Buffer Zone",
+      "total_sightings": 76,
+      "lookback_days": 7,
+      "top_counties": [
+        "Brevard",
+        "Escambia",
+        "Flagler"
+      ]
+    },
     {
       "date": "2026-07-27",
       "date_label": "Mon Jul 27",
