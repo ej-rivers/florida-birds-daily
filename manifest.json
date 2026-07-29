@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-07-28T12:56:24.093Z",
+  "generated_at": "2026-07-29T13:02:15.942Z",
   "entries": [
+    {
+      "date": "2026-07-29",
+      "date_label": "Wed Jul 29",
+      "common_name": "Magnificent Frigatebird",
+      "scientific_name": "Fregata magnificens",
+      "species_code": "magfri",
+      "url": "/florida-birds-daily/2026/07/29.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Fregata_magnificens_-Galapagos%2C_Ecuador_-male-8_%281%29.jpg/1280px-Fregata_magnificens_-Galapagos%2C_Ecuador_-male-8_%281%29.jpg",
+      "region_label": "Pass-a-Grille",
+      "lat": 27.6961,
+      "lng": -82.7373,
+      "location_name": "Pass-a-Grille",
+      "total_sightings": 21,
+      "lookback_days": 7,
+      "top_counties": [
+        "Brevard",
+        "Broward",
+        "Collier"
+      ]
+    },
     {
       "date": "2026-07-28",
       "date_label": "Tue Jul 28",
