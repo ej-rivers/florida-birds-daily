@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-08-01T12:00:20.329Z",
+  "generated_at": "2026-08-02T12:04:58.699Z",
   "entries": [
+    {
+      "date": "2026-08-02",
+      "date_label": "Sun Aug 2",
+      "common_name": "American White Pelican",
+      "scientific_name": "Pelecanus erythrorhynchos",
+      "species_code": "amwpel",
+      "url": "/florida-birds-daily/2026/08/02.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Mikebaird_-_American_White_Pelican_%28Pelecanus_erythrorhynchos_%29_%28bird%29_in_Mo_%28by%29.jpg/1280px-Mikebaird_-_American_White_Pelican_%28Pelecanus_erythrorhynchos_%29_%28bird%29_in_Mo_%28by%29.jpg",
+      "region_label": "Newnans Lake--Earl P. Powers Park",
+      "lat": 29.6179943,
+      "lng": -82.2511673,
+      "location_name": "Newnans Lake--Earl P. Powers Park",
+      "total_sightings": 9,
+      "lookback_days": 7,
+      "top_counties": [
+        "Alachua",
+        "Brevard",
+        "Broward"
+      ]
+    },
     {
       "date": "2026-08-01",
       "date_label": "Sat Aug 1",
