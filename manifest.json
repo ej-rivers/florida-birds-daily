@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-08-02T12:04:58.699Z",
+  "generated_at": "2026-08-03T12:00:27.732Z",
   "entries": [
+    {
+      "date": "2026-08-03",
+      "date_label": "Mon Aug 3",
+      "common_name": "Western Cattle-Egret",
+      "scientific_name": "Ardea ibis",
+      "species_code": "categr1",
+      "url": "/florida-birds-daily/2026/08/03.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bubulcus_ibis_%28Cattle_Egret%29.jpg/1280px-Bubulcus_ibis_%28Cattle_Egret%29.jpg",
+      "region_label": "Sweetwater Wetlands Park",
+      "lat": 29.6193055,
+      "lng": -82.3285764,
+      "location_name": "Sweetwater Wetlands Park",
+      "total_sightings": 138,
+      "lookback_days": 7,
+      "top_counties": [
+        "Alachua",
+        "Palm Beach",
+        "Brevard"
+      ]
+    },
     {
       "date": "2026-08-02",
       "date_label": "Sun Aug 2",
