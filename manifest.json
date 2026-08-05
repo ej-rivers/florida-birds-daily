@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-08-04T12:25:14.332Z",
+  "generated_at": "2026-08-05T12:00:21.029Z",
   "entries": [
+    {
+      "date": "2026-08-05",
+      "date_label": "Wed Aug 5",
+      "common_name": "Black Tern",
+      "scientific_name": "Chlidonias niger",
+      "species_code": "blkter",
+      "url": "/florida-birds-daily/2026/08/05.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Chlidonias_niger.jpg",
+      "region_label": "Gandy Beach",
+      "lat": 27.8758367,
+      "lng": -82.5940929,
+      "location_name": "Gandy Beach",
+      "total_sightings": 30,
+      "lookback_days": 7,
+      "top_counties": [
+        "Brevard",
+        "Alachua",
+        "Hillsborough"
+      ]
+    },
     {
       "date": "2026-08-04",
       "date_label": "Tue Aug 4",
