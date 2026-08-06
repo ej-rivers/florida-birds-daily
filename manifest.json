@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-08-05T12:00:21.029Z",
+  "generated_at": "2026-08-06T12:00:48.399Z",
   "entries": [
+    {
+      "date": "2026-08-06",
+      "date_label": "Thu Aug 6",
+      "common_name": "White Ibis",
+      "scientific_name": "Eudocimus albus",
+      "species_code": "whiibi",
+      "url": "/florida-birds-daily/2026/08/06.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Eudocimus_albus_1.jpg/1280px-Eudocimus_albus_1.jpg",
+      "region_label": "Sawgrass Rookery",
+      "lat": 26.1493163,
+      "lng": -80.3368791,
+      "location_name": "Sawgrass Rookery",
+      "total_sightings": 312,
+      "lookback_days": 7,
+      "top_counties": [
+        "Brevard",
+        "Broward",
+        "Alachua"
+      ]
+    },
     {
       "date": "2026-08-05",
       "date_label": "Wed Aug 5",
