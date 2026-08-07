@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-08-06T12:00:48.399Z",
+  "generated_at": "2026-08-07T11:49:30.907Z",
   "entries": [
+    {
+      "date": "2026-08-07",
+      "date_label": "Fri Aug 7",
+      "common_name": "Killdeer",
+      "scientific_name": "Charadrius vociferus",
+      "species_code": "killde",
+      "url": "/florida-birds-daily/2026/08/07.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Killdeer_on_nest_%28Charadrius_vociferus%29.jpg/1280px-Killdeer_on_nest_%28Charadrius_vociferus%29.jpg",
+      "region_label": "Nathan Benderson Park",
+      "lat": 27.36972,
+      "lng": -82.45095,
+      "location_name": "Nathan Benderson Park",
+      "total_sightings": 78,
+      "lookback_days": 7,
+      "top_counties": [
+        "Brevard",
+        "Charlotte",
+        "Collier"
+      ]
+    },
     {
       "date": "2026-08-06",
       "date_label": "Thu Aug 6",
