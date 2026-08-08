@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-08-07T11:49:30.907Z",
+  "generated_at": "2026-08-08T11:32:13.740Z",
   "entries": [
+    {
+      "date": "2026-08-08",
+      "date_label": "Sat Aug 8",
+      "common_name": "Black-necked Stilt",
+      "scientific_name": "Himantopus mexicanus",
+      "species_code": "bknsti",
+      "url": "/florida-birds-daily/2026/08/08.html",
+      "thumb": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+      "region_label": "Gladeview Rd.",
+      "lat": 26.6661316,
+      "lng": -80.492734,
+      "location_name": "Gladeview Rd.",
+      "total_sightings": 30,
+      "lookback_days": 7,
+      "top_counties": [
+        "Alachua",
+        "Brevard",
+        "Charlotte"
+      ]
+    },
     {
       "date": "2026-08-07",
       "date_label": "Fri Aug 7",
