@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-08-08T11:32:13.740Z",
+  "generated_at": "2026-08-09T11:32:43.074Z",
   "entries": [
+    {
+      "date": "2026-08-09",
+      "date_label": "Sun Aug 9",
+      "common_name": "Sandwich Tern",
+      "scientific_name": "Thalasseus sandvicensis",
+      "species_code": "santer1",
+      "url": "/florida-birds-daily/2026/08/09.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Thalasseus_sandvicensis_-_Sandwich_Tern%2C_Adana_2016-11-05_01-1.jpg/1280px-Thalasseus_sandvicensis_-_Sandwich_Tern%2C_Adana_2016-11-05_01-1.jpg",
+      "region_label": "Sand Key Park",
+      "lat": 27.960064,
+      "lng": -82.8294897,
+      "location_name": "Sand Key Park",
+      "total_sightings": 61,
+      "lookback_days": 7,
+      "top_counties": [
+        "Brevard",
+        "Collier",
+        "Franklin"
+      ]
+    },
     {
       "date": "2026-08-08",
       "date_label": "Sat Aug 8",
