@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-08-09T11:32:43.074Z",
+  "generated_at": "2026-08-10T11:50:17.853Z",
   "entries": [
+    {
+      "date": "2026-08-10",
+      "date_label": "Mon Aug 10",
+      "common_name": "Rock Pigeon",
+      "scientific_name": "Columba livia",
+      "species_code": "rocpig",
+      "url": "/florida-birds-daily/2026/08/10.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Pigeon_portrait_4861.jpg/1280px-Pigeon_portrait_4861.jpg",
+      "region_label": "Beach View Park",
+      "lat": 25.831134,
+      "lng": -80.120585,
+      "location_name": "Beach View Park",
+      "total_sightings": 95,
+      "lookback_days": 7,
+      "top_counties": [
+        "Broward",
+        "Brevard",
+        "Duval"
+      ]
+    },
     {
       "date": "2026-08-09",
       "date_label": "Sun Aug 9",
