@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-08-12T11:50:11.611Z",
+  "generated_at": "2026-08-13T11:50:52.539Z",
   "entries": [
+    {
+      "date": "2026-08-13",
+      "date_label": "Thu Aug 13",
+      "common_name": "Common Grackle",
+      "scientific_name": "Quiscalus quiscula",
+      "species_code": "comgra",
+      "url": "/florida-birds-daily/2026/08/13.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Quiscalus-quiscula-001.jpg",
+      "region_label": "Cypress Falls, North Port, Florida",
+      "lat": 27.0876851,
+      "lng": -82.1428388,
+      "location_name": "Cypress Falls, North Port, Florida",
+      "total_sightings": 119,
+      "lookback_days": 7,
+      "top_counties": [
+        "Broward",
+        "Collier",
+        "Charlotte"
+      ]
+    },
     {
       "date": "2026-08-12",
       "date_label": "Wed Aug 12",
