@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-08-13T11:50:52.539Z",
+  "generated_at": "2026-08-14T11:47:11.026Z",
   "entries": [
+    {
+      "date": "2026-08-14",
+      "date_label": "Fri Aug 14",
+      "common_name": "Great Egret",
+      "scientific_name": "Ardea alba",
+      "species_code": "greegr",
+      "url": "/florida-birds-daily/2026/08/14.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Ardea_alba4.jpg",
+      "region_label": "Pine Glades Natural Area",
+      "lat": 26.9416978,
+      "lng": -80.257144,
+      "location_name": "Pine Glades Natural Area",
+      "total_sightings": 286,
+      "lookback_days": 7,
+      "top_counties": [
+        "Sarasota",
+        "Brevard",
+        "Hillsborough"
+      ]
+    },
     {
       "date": "2026-08-13",
       "date_label": "Thu Aug 13",
