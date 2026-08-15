@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-08-14T11:47:11.026Z",
+  "generated_at": "2026-08-15T11:22:51.314Z",
   "entries": [
+    {
+      "date": "2026-08-15",
+      "date_label": "Sat Aug 15",
+      "common_name": "Roseate Spoonbill",
+      "scientific_name": "Platalea ajaja",
+      "species_code": "rosspo1",
+      "url": "/florida-birds-daily/2026/08/15.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Rosa_L%C3%B6ffler_%28Platalea_ajaja%29-001.jpg/1280px-Rosa_L%C3%B6ffler_%28Platalea_ajaja%29-001.jpg",
+      "region_label": "IRC Stormwater Egret Marsh (Permission Required)",
+      "lat": 27.6084606,
+      "lng": -80.4772731,
+      "location_name": "IRC Stormwater Egret Marsh (Permission Required)",
+      "total_sightings": 33,
+      "lookback_days": 7,
+      "top_counties": [
+        "Duval",
+        "Hillsborough",
+        "Alachua"
+      ]
+    },
     {
       "date": "2026-08-14",
       "date_label": "Fri Aug 14",
