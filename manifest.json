@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-08-15T11:22:51.314Z",
+  "generated_at": "2026-08-16T11:23:27.582Z",
   "entries": [
+    {
+      "date": "2026-08-16",
+      "date_label": "Sun Aug 16",
+      "common_name": "Double-crested Cormorant",
+      "scientific_name": "Nannopterum auritum",
+      "species_code": "doccor",
+      "url": "/florida-birds-daily/2026/08/16.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Phalacrocorax-auritus-007.jpg",
+      "region_label": "Merritt Island NWR- Bird Island",
+      "lat": 28.726007,
+      "lng": -80.770005,
+      "location_name": "Merritt Island NWR- Bird Island",
+      "total_sightings": 78,
+      "lookback_days": 7,
+      "top_counties": [
+        "Brevard",
+        "Broward",
+        "Charlotte"
+      ]
+    },
     {
       "date": "2026-08-15",
       "date_label": "Sat Aug 15",
