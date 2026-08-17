@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-08-16T11:23:27.582Z",
+  "generated_at": "2026-08-17T11:29:19.067Z",
   "entries": [
+    {
+      "date": "2026-08-17",
+      "date_label": "Mon Aug 17",
+      "common_name": "Least Sandpiper",
+      "scientific_name": "Calidris minutilla",
+      "species_code": "leasan",
+      "url": "/florida-birds-daily/2026/08/17.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Least_sandpiper_in_JBWR_%2825078%29.jpg/1280px-Least_sandpiper_in_JBWR_%2825078%29.jpg",
+      "region_label": "Browns Farm Rd.",
+      "lat": 26.6215822,
+      "lng": -80.5616945,
+      "location_name": "Browns Farm Rd.",
+      "total_sightings": 29,
+      "lookback_days": 7,
+      "top_counties": [
+        "Brevard",
+        "Collier",
+        "Charlotte"
+      ]
+    },
     {
       "date": "2026-08-16",
       "date_label": "Sun Aug 16",
