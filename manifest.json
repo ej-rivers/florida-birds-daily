@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-08-17T11:29:19.067Z",
+  "generated_at": "2026-08-18T11:28:12.613Z",
   "entries": [
+    {
+      "date": "2026-08-18",
+      "date_label": "Tue Aug 18",
+      "common_name": "Fish Crow",
+      "scientific_name": "Corvus ossifragus",
+      "species_code": "fiscro",
+      "url": "/florida-birds-daily/2026/08/18.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Fish_crow_in_Red_Hook_%2842712%29.jpg/1280px-Fish_crow_in_Red_Hook_%2842712%29.jpg",
+      "region_label": "Mirasol Trail",
+      "lat": 26.839393,
+      "lng": -80.136266,
+      "location_name": "Mirasol Trail",
+      "total_sightings": 191,
+      "lookback_days": 7,
+      "top_counties": [
+        "Brevard",
+        "Broward",
+        "Charlotte"
+      ]
+    },
     {
       "date": "2026-08-17",
       "date_label": "Mon Aug 17",
