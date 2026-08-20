@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-08-18T11:28:12.613Z",
+  "generated_at": "2026-08-20T11:29:34.033Z",
   "entries": [
+    {
+      "date": "2026-08-20",
+      "date_label": "Thu Aug 20",
+      "common_name": "Boat-tailed Grackle",
+      "scientific_name": "Quiscalus major",
+      "species_code": "botgra",
+      "url": "/florida-birds-daily/2026/08/20.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Quiscalus_major_-Three_Lakes_Wildlife_Management_Area%2C_Florida%2C_USA_-male-8.jpg/1280px-Quiscalus_major_-Three_Lakes_Wildlife_Management_Area%2C_Florida%2C_USA_-male-8.jpg",
+      "region_label": "Ralph V. Chisholm Regional Park",
+      "lat": 28.2782779,
+      "lng": -81.2518787,
+      "location_name": "Ralph V. Chisholm Regional Park",
+      "total_sightings": 134,
+      "lookback_days": 7,
+      "top_counties": [
+        "Brevard",
+        "Broward",
+        "Alachua"
+      ]
+    },
     {
       "date": "2026-08-18",
       "date_label": "Tue Aug 18",
