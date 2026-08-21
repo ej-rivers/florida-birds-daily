@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-08-20T11:29:34.033Z",
+  "generated_at": "2026-08-21T11:29:32.755Z",
   "entries": [
+    {
+      "date": "2026-08-21",
+      "date_label": "Fri Aug 21",
+      "common_name": "Mallard",
+      "scientific_name": "Anas platyrhynchos",
+      "species_code": "mallar3",
+      "url": "/florida-birds-daily/2026/08/21.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Female_Mallard_Duck_Rest_3.jpg/1280px-Female_Mallard_Duck_Rest_3.jpg",
+      "region_label": "Limit Avenue Pond",
+      "lat": 28.814985,
+      "lng": -81.639608,
+      "location_name": "Limit Avenue Pond",
+      "total_sightings": 13,
+      "lookback_days": 7,
+      "top_counties": [
+        "Duval",
+        "Brevard",
+        "Alachua"
+      ]
+    },
     {
       "date": "2026-08-20",
       "date_label": "Thu Aug 20",
