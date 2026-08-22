@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-08-21T11:29:32.755Z",
+  "generated_at": "2026-08-22T11:23:16.738Z",
   "entries": [
+    {
+      "date": "2026-08-22",
+      "date_label": "Sat Aug 22",
+      "common_name": "Sanderling",
+      "scientific_name": "Calidris alba",
+      "species_code": "sander",
+      "url": "/florida-birds-daily/2026/08/22.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Calidris_alba_portrait.JPG/1280px-Calidris_alba_portrait.JPG",
+      "region_label": "Jetty Park",
+      "lat": 28.4064535,
+      "lng": -80.5924523,
+      "location_name": "Jetty Park",
+      "total_sightings": 76,
+      "lookback_days": 7,
+      "top_counties": [
+        "Brevard",
+        "Collier",
+        "Duval"
+      ]
+    },
     {
       "date": "2026-08-21",
       "date_label": "Fri Aug 21",
