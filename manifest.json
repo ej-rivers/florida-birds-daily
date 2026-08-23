@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-08-22T11:23:16.738Z",
+  "generated_at": "2026-08-23T11:23:55.453Z",
   "entries": [
+    {
+      "date": "2026-08-23",
+      "date_label": "Sun Aug 23",
+      "common_name": "Black Skimmer",
+      "scientific_name": "Rynchops niger",
+      "species_code": "blkski",
+      "url": "/florida-birds-daily/2026/08/23.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Black_skimmer_%28Rynchops_niger%29_in_flight.jpg/1280px-Black_skimmer_%28Rynchops_niger%29_in_flight.jpg",
+      "region_label": "Anna Maria Island",
+      "lat": 27.5189,
+      "lng": -82.7263,
+      "location_name": "Anna Maria Island",
+      "total_sightings": 22,
+      "lookback_days": 7,
+      "top_counties": [
+        "Brevard",
+        "Collier",
+        "Hillsborough"
+      ]
+    },
     {
       "date": "2026-08-22",
       "date_label": "Sat Aug 22",
