@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-08-23T11:23:55.453Z",
+  "generated_at": "2026-08-24T11:32:29.398Z",
   "entries": [
+    {
+      "date": "2026-08-24",
+      "date_label": "Mon Aug 24",
+      "common_name": "Snowy Egret",
+      "scientific_name": "Egretta thula",
+      "species_code": "snoegr",
+      "url": "/florida-birds-daily/2026/08/24.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/8/81/Egretta_thula1.jpg",
+      "region_label": "Centre Pointe Lane Pond",
+      "lat": 30.474417,
+      "lng": -84.237235,
+      "location_name": "Centre Pointe Lane Pond",
+      "total_sightings": 129,
+      "lookback_days": 7,
+      "top_counties": [
+        "Brevard",
+        "Duval",
+        "Alachua"
+      ]
+    },
     {
       "date": "2026-08-23",
       "date_label": "Sun Aug 23",
