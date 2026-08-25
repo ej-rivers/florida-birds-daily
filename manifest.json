@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-08-24T11:32:29.398Z",
+  "generated_at": "2026-08-25T11:31:40.982Z",
   "entries": [
+    {
+      "date": "2026-08-25",
+      "date_label": "Tue Aug 25",
+      "common_name": "Short-billed Dowitcher",
+      "scientific_name": "Limnodromus griseus",
+      "species_code": "shbdow",
+      "url": "/florida-birds-daily/2026/08/25.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Short-billed_dowitcher_in_JBWR_%2840850%29.jpg/1280px-Short-billed_dowitcher_in_JBWR_%2840850%29.jpg",
+      "region_label": "Dunedin Causeway",
+      "lat": 28.0521363,
+      "lng": -82.8020668,
+      "location_name": "Dunedin Causeway",
+      "total_sightings": 21,
+      "lookback_days": 7,
+      "top_counties": [
+        "Collier",
+        "Brevard",
+        "Duval"
+      ]
+    },
     {
       "date": "2026-08-24",
       "date_label": "Mon Aug 24",
