@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-08-25T11:31:40.982Z",
+  "generated_at": "2026-08-26T11:33:19.167Z",
   "entries": [
+    {
+      "date": "2026-08-26",
+      "date_label": "Wed Aug 26",
+      "common_name": "Turkey Vulture",
+      "scientific_name": "Cathartes aura",
+      "species_code": "turvul",
+      "url": "/florida-birds-daily/2026/08/26.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Marin_Headlands_with_Rodeo_Beach.jpg/1280px-Marin_Headlands_with_Rodeo_Beach.jpg",
+      "region_label": "Margaritaville",
+      "lat": 27.87039,
+      "lng": -81.045528,
+      "location_name": "Margaritaville",
+      "total_sightings": 143,
+      "lookback_days": 7,
+      "top_counties": [
+        "Alachua",
+        "Brevard",
+        "Duval"
+      ]
+    },
     {
       "date": "2026-08-25",
       "date_label": "Tue Aug 25",
