@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-08-27T20:56:05.970Z",
+  "generated_at": "2026-08-28T21:19:41.723Z",
   "entries": [
+    {
+      "date": "2026-08-28",
+      "date_label": "Fri Aug 28",
+      "common_name": "Wood Stork",
+      "scientific_name": "Mycteria americana",
+      "species_code": "woosto",
+      "url": "/florida-birds-daily/2026/08/28.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/WoodStorkWhole.JPG/1280px-WoodStorkWhole.JPG",
+      "region_label": "Orange Lake Resort--West Village",
+      "lat": 28.352715,
+      "lng": -81.6245367,
+      "location_name": "Orange Lake Resort--West Village",
+      "total_sightings": 35,
+      "lookback_days": 7,
+      "top_counties": [
+        "Brevard",
+        "Duval",
+        "Jefferson"
+      ]
+    },
     {
       "date": "2026-08-27",
       "date_label": "Thu Aug 27",
