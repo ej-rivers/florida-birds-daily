@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-08-29T15:32:24.817Z",
+  "generated_at": "2026-08-30T15:15:40.649Z",
   "entries": [
+    {
+      "date": "2026-08-30",
+      "date_label": "Sun Aug 30",
+      "common_name": "Black-bellied Whistling-Duck",
+      "scientific_name": "Dendrocygna autumnalis",
+      "species_code": "bbwduc",
+      "url": "/florida-birds-daily/2026/08/30.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Whistling_duck_flight02_-_natures_pics.jpg/1280px-Whistling_duck_flight02_-_natures_pics.jpg",
+      "region_label": "Robinson/Vanderah Yard",
+      "lat": 29.4823054,
+      "lng": -82.2639419,
+      "location_name": "Robinson/Vanderah Yard",
+      "total_sightings": 128,
+      "lookback_days": 7,
+      "top_counties": [
+        "Alachua",
+        "Hillsborough",
+        "Charlotte"
+      ]
+    },
     {
       "date": "2026-08-29",
       "date_label": "Sat Aug 29",
