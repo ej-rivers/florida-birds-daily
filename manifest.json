@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-08-30T15:15:40.649Z",
+  "generated_at": "2026-08-31T17:56:43.316Z",
   "entries": [
+    {
+      "date": "2026-08-31",
+      "date_label": "Mon Aug 31",
+      "common_name": "Pectoral Sandpiper",
+      "scientific_name": "Calidris melanotos",
+      "species_code": "pecsan",
+      "url": "/florida-birds-daily/2026/08/31.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Pectoral_Sandpiper3.jpg/1280px-Pectoral_Sandpiper3.jpg",
+      "region_label": "Airport & Senter Rd Sod Area",
+      "lat": 26.6937957,
+      "lng": -80.5417222,
+      "location_name": "Airport & Senter Rd Sod Area",
+      "total_sightings": 13,
+      "lookback_days": 7,
+      "top_counties": [
+        "Jefferson",
+        "Dixie",
+        "Escambia"
+      ]
+    },
     {
       "date": "2026-08-30",
       "date_label": "Sun Aug 30",
