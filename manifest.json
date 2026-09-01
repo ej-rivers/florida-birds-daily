@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-08-31T17:56:43.316Z",
+  "generated_at": "2026-09-01T15:30:11.109Z",
   "entries": [
+    {
+      "date": "2026-09-01",
+      "date_label": "Tue Sep 1",
+      "common_name": "Royal Tern",
+      "scientific_name": "Thalasseus maximus",
+      "species_code": "royter1",
+      "url": "/florida-birds-daily/2026/09/01.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Thalasseus_maximus_flight.jpg",
+      "region_label": "Siesta Key Public Beach",
+      "lat": 27.2643958,
+      "lng": -82.5517845,
+      "location_name": "Siesta Key Public Beach",
+      "total_sightings": 126,
+      "lookback_days": 7,
+      "top_counties": [
+        "Brevard",
+        "Duval",
+        "Sarasota"
+      ]
+    },
     {
       "date": "2026-08-31",
       "date_label": "Mon Aug 31",
