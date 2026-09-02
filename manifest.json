@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-09-01T15:30:11.109Z",
+  "generated_at": "2026-09-02T15:00:49.071Z",
   "entries": [
+    {
+      "date": "2026-09-02",
+      "date_label": "Wed Sep 2",
+      "common_name": "Glossy Ibis",
+      "scientific_name": "Plegadis falcinellus",
+      "species_code": "gloibi",
+      "url": "/florida-birds-daily/2026/09/02.html",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Plegadis_falcinellus_%28aka%29_background_blurred.jpg/1280px-Plegadis_falcinellus_%28aka%29_background_blurred.jpg",
+      "region_label": "Gladeview Rd.",
+      "lat": 26.6661316,
+      "lng": -80.492734,
+      "location_name": "Gladeview Rd.",
+      "total_sightings": 45,
+      "lookback_days": 7,
+      "top_counties": [
+        "Brevard",
+        "Alachua",
+        "Charlotte"
+      ]
+    },
     {
       "date": "2026-09-01",
       "date_label": "Tue Sep 1",
