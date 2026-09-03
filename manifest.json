@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-09-02T15:00:49.071Z",
+  "generated_at": "2026-09-03T14:55:14.733Z",
   "entries": [
+    {
+      "date": "2026-09-03",
+      "date_label": "Thu Sep 3",
+      "common_name": "Red-winged Blackbird",
+      "scientific_name": "Agelaius phoeniceus",
+      "species_code": "rewbla",
+      "url": "/florida-birds-daily/2026/09/03.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/0/02/Blackbird-sunset-03.jpg",
+      "region_label": "Newnans Lake--Palm Point Park",
+      "lat": 29.6364,
+      "lng": -82.2382,
+      "location_name": "Newnans Lake--Palm Point Park",
+      "total_sightings": 102,
+      "lookback_days": 7,
+      "top_counties": [
+        "Alachua",
+        "Hillsborough",
+        "Brevard"
+      ]
+    },
     {
       "date": "2026-09-02",
       "date_label": "Wed Sep 2",
