@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-09-03T14:55:14.733Z",
+  "generated_at": "2026-09-04T14:52:01.267Z",
   "entries": [
+    {
+      "date": "2026-09-04",
+      "date_label": "Fri Sep 4",
+      "common_name": "Western Cattle-Egret",
+      "scientific_name": "Ardea ibis",
+      "species_code": "categr1",
+      "url": "/florida-birds-daily/2026/09/04.html",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Bubulcus_ibis_%28Cattle_Egret%29.jpg/1280px-Bubulcus_ibis_%28Cattle_Egret%29.jpg",
+      "region_label": "Wilds' Oakmont Meadows",
+      "lat": 29.6217275,
+      "lng": -82.4555342,
+      "location_name": "Wilds' Oakmont Meadows",
+      "total_sightings": 94,
+      "lookback_days": 7,
+      "top_counties": [
+        "Alachua",
+        "Collier",
+        "Brevard"
+      ]
+    },
     {
       "date": "2026-09-03",
       "date_label": "Thu Sep 3",
