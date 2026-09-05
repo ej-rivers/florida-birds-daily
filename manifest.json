@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-09-04T14:52:01.267Z",
+  "generated_at": "2026-09-05T13:45:44.610Z",
   "entries": [
+    {
+      "date": "2026-09-05",
+      "date_label": "Sat Sep 5",
+      "common_name": "Bobolink",
+      "scientific_name": "Dolichonyx oryzivorus",
+      "species_code": "boboli",
+      "url": "/florida-birds-daily/2026/09/05.html",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/20240828_bobolink_suffield_wma_PD202157.jpg/1280px-20240828_bobolink_suffield_wma_PD202157.jpg",
+      "region_label": "Hatton Hwy Sod Farms",
+      "lat": 26.7823407,
+      "lng": -80.5457952,
+      "location_name": "Hatton Hwy Sod Farms",
+      "total_sightings": 15,
+      "lookback_days": 7,
+      "top_counties": [
+        "Alachua",
+        "Brevard",
+        "Nassau"
+      ]
+    },
     {
       "date": "2026-09-04",
       "date_label": "Fri Sep 4",
