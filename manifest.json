@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-09-05T13:45:44.610Z",
+  "generated_at": "2026-09-06T14:01:39.328Z",
   "entries": [
+    {
+      "date": "2026-09-06",
+      "date_label": "Sun Sep 6",
+      "common_name": "White Ibis",
+      "scientific_name": "Eudocimus albus",
+      "species_code": "whiibi",
+      "url": "/florida-birds-daily/2026/09/06.html",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Eudocimus_albus_1.jpg/1280px-Eudocimus_albus_1.jpg",
+      "region_label": "Drigger's Road",
+      "lat": 27.2988402,
+      "lng": -81.2660781,
+      "location_name": "Drigger's Road",
+      "total_sightings": 323,
+      "lookback_days": 7,
+      "top_counties": [
+        "Collier",
+        "Brevard",
+        "Hillsborough"
+      ]
+    },
     {
       "date": "2026-09-05",
       "date_label": "Sat Sep 5",
