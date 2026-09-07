@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-09-06T14:01:39.328Z",
+  "generated_at": "2026-09-07T16:19:29.110Z",
   "entries": [
+    {
+      "date": "2026-09-07",
+      "date_label": "Mon Sep 7",
+      "common_name": "Little Blue Heron",
+      "scientific_name": "Egretta caerulea",
+      "species_code": "libher",
+      "url": "/florida-birds-daily/2026/09/07.html",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Nonbreeding_Adult_Little_Blue_Heron.jpg/1280px-Nonbreeding_Adult_Little_Blue_Heron.jpg",
+      "region_label": "Orange Creek Restoration Area--Marion Co.",
+      "lat": 29.4375662,
+      "lng": -82.0606076,
+      "location_name": "Orange Creek Restoration Area--Marion Co.",
+      "total_sightings": 185,
+      "lookback_days": 7,
+      "top_counties": [
+        "Brevard",
+        "Alachua",
+        "Duval"
+      ]
+    },
     {
       "date": "2026-09-06",
       "date_label": "Sun Sep 6",
