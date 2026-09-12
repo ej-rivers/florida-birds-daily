@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-09-11T14:55:42.387Z",
+  "generated_at": "2026-09-12T13:55:22.935Z",
   "entries": [
+    {
+      "date": "2026-09-12",
+      "date_label": "Sat Sep 12",
+      "common_name": "Purple Martin",
+      "scientific_name": "Progne subis",
+      "species_code": "purmar",
+      "url": "/florida-birds-daily/2026/09/12.html",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Purple_martin_in_flight_%2830977%29.jpg/1280px-Purple_martin_in_flight_%2830977%29.jpg",
+      "region_label": "Rhoden Cove Road Landing",
+      "lat": 30.5136017,
+      "lng": -84.2949014,
+      "location_name": "Rhoden Cove Road Landing",
+      "total_sightings": 41,
+      "lookback_days": 7,
+      "top_counties": [
+        "Alachua",
+        "Hernando",
+        "Collier"
+      ]
+    },
     {
       "date": "2026-09-11",
       "date_label": "Fri Sep 11",
