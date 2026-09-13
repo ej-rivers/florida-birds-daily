@@ -1,7 +1,26 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-09-12T13:55:22.935Z",
+  "generated_at": "2026-09-13T14:51:24.442Z",
   "entries": [
+    {
+      "date": "2026-09-13",
+      "date_label": "Sun Sep 13",
+      "common_name": "Stilt Sandpiper",
+      "scientific_name": "Calidris himantopus",
+      "species_code": "stisan",
+      "url": "/florida-birds-daily/2026/09/13.html",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Stilt_Sandpiper_741289055.jpg/1280px-Stilt_Sandpiper_741289055.jpg",
+      "region_label": "Gladeview Rd.",
+      "lat": 26.6661316,
+      "lng": -80.492734,
+      "location_name": "Gladeview Rd.",
+      "total_sightings": 2,
+      "lookback_days": 7,
+      "top_counties": [
+        "Alachua",
+        "Gulf"
+      ]
+    },
     {
       "date": "2026-09-12",
       "date_label": "Sat Sep 12",
