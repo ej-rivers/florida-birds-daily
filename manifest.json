@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-09-13T14:51:24.442Z",
+  "generated_at": "2026-09-14T16:51:42.770Z",
   "entries": [
+    {
+      "date": "2026-09-14",
+      "date_label": "Mon Sep 14",
+      "common_name": "Willet",
+      "scientific_name": "Tringa semipalmata",
+      "species_code": "willet1",
+      "url": "/florida-birds-daily/2026/09/14.html",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Catoptrophorus-semipalmatus-001.jpg/1280px-Catoptrophorus-semipalmatus-001.jpg",
+      "region_label": "St. Marks NWR--Lighthouse Pool & Flats",
+      "lat": 30.0742182,
+      "lng": -84.1799551,
+      "location_name": "St. Marks NWR--Lighthouse Pool & Flats",
+      "total_sightings": 156,
+      "lookback_days": 7,
+      "top_counties": [
+        "Pinellas",
+        "Brevard",
+        "Lee"
+      ]
+    },
     {
       "date": "2026-09-13",
       "date_label": "Sun Sep 13",
