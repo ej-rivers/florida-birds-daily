@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-09-15T15:28:50.251Z",
+  "generated_at": "2026-09-16T15:22:01.448Z",
   "entries": [
+    {
+      "date": "2026-09-16",
+      "date_label": "Wed Sep 16",
+      "common_name": "Mourning Dove",
+      "scientific_name": "Zenaida macroura",
+      "species_code": "moudov",
+      "url": "/florida-birds-daily/2026/09/16.html",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Mourning_dove_perched_%2861179%29.jpg/1280px-Mourning_dove_perched_%2861179%29.jpg",
+      "region_label": "Second St, Fort Myers Shores",
+      "lat": 26.7060054,
+      "lng": -81.7498095,
+      "location_name": "Second St, Fort Myers Shores",
+      "total_sightings": 405,
+      "lookback_days": 7,
+      "top_counties": [
+        "Brevard",
+        "Alachua",
+        "Hillsborough"
+      ]
+    },
     {
       "date": "2026-09-15",
       "date_label": "Tue Sep 15",
