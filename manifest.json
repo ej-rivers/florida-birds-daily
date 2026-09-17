@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-09-16T15:22:01.448Z",
+  "generated_at": "2026-09-17T15:27:58.236Z",
   "entries": [
+    {
+      "date": "2026-09-17",
+      "date_label": "Thu Sep 17",
+      "common_name": "Fish Crow",
+      "scientific_name": "Corvus ossifragus",
+      "species_code": "fiscro",
+      "url": "/florida-birds-daily/2026/09/17.html",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Fish_crow_in_Red_Hook_%2842712%29.jpg/1280px-Fish_crow_in_Red_Hook_%2842712%29.jpg",
+      "region_label": "KOCF East (Restricted Access)",
+      "lat": 29.1700487,
+      "lng": -82.2194577,
+      "location_name": "KOCF East (Restricted Access)",
+      "total_sightings": 195,
+      "lookback_days": 7,
+      "top_counties": [
+        "Brevard",
+        "Broward",
+        "Duval"
+      ]
+    },
     {
       "date": "2026-09-16",
       "date_label": "Wed Sep 16",
