@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-09-17T15:27:58.236Z",
+  "generated_at": "2026-09-18T14:50:52.030Z",
   "entries": [
+    {
+      "date": "2026-09-18",
+      "date_label": "Fri Sep 18",
+      "common_name": "Carolina Wren",
+      "scientific_name": "Thryothorus ludovicianus",
+      "species_code": "carwre",
+      "url": "/florida-birds-daily/2026/09/18.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/6/67/Carolina_Wren-27527.jpg",
+      "region_label": "Robinson/Vanderah Yard",
+      "lat": 29.4823054,
+      "lng": -82.2639419,
+      "location_name": "Robinson/Vanderah Yard",
+      "total_sightings": 407,
+      "lookback_days": 7,
+      "top_counties": [
+        "Alachua",
+        "Duval",
+        "Orange"
+      ]
+    },
     {
       "date": "2026-09-17",
       "date_label": "Thu Sep 17",
