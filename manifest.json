@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-09-18T14:50:52.030Z",
+  "generated_at": "2026-09-19T14:13:16.997Z",
   "entries": [
+    {
+      "date": "2026-09-19",
+      "date_label": "Sat Sep 19",
+      "common_name": "Sandhill Crane",
+      "scientific_name": "Antigone canadensis",
+      "species_code": "sancra",
+      "url": "/florida-birds-daily/2026/09/19.html",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Sandhill_Cranes_in_flight_7960.jpg/1280px-Sandhill_Cranes_in_flight_7960.jpg",
+      "region_label": "RF (NO PUBLIC ACCESS)",
+      "lat": 29.4115931,
+      "lng": -82.2017873,
+      "location_name": "RF (NO PUBLIC ACCESS)",
+      "total_sightings": 80,
+      "lookback_days": 7,
+      "top_counties": [
+        "Alachua",
+        "Hillsborough",
+        "Brevard"
+      ]
+    },
     {
       "date": "2026-09-18",
       "date_label": "Fri Sep 18",
