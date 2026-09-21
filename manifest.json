@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-09-20T14:36:36.527Z",
+  "generated_at": "2026-09-21T16:52:57.065Z",
   "entries": [
+    {
+      "date": "2026-09-21",
+      "date_label": "Mon Sep 21",
+      "common_name": "Common Grackle",
+      "scientific_name": "Quiscalus quiscula",
+      "species_code": "comgra",
+      "url": "/florida-birds-daily/2026/09/21.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Quiscalus-quiscula-001.jpg",
+      "region_label": "my house",
+      "lat": 28.0809405,
+      "lng": -82.0234397,
+      "location_name": "my house",
+      "total_sightings": 169,
+      "lookback_days": 7,
+      "top_counties": [
+        "Broward",
+        "Brevard",
+        "Collier"
+      ]
+    },
     {
       "date": "2026-09-20",
       "date_label": "Sun Sep 20",
