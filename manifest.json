@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-09-22T15:27:17.328Z",
+  "generated_at": "2026-09-23T15:21:40.408Z",
   "entries": [
+    {
+      "date": "2026-09-23",
+      "date_label": "Wed Sep 23",
+      "common_name": "Eastern Kingbird",
+      "scientific_name": "Tyrannus tyrannus",
+      "species_code": "easkin",
+      "url": "/florida-birds-daily/2026/09/23.html",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Tyrannus_tyrannus_MN3.jpg/1280px-Tyrannus_tyrannus_MN3.jpg",
+      "region_label": "Southern Glades Trail (C111 Canal outside ENP)",
+      "lat": 25.4034735,
+      "lng": -80.5586135,
+      "location_name": "Southern Glades Trail (C111 Canal outside ENP)",
+      "total_sightings": 30,
+      "lookback_days": 7,
+      "top_counties": [
+        "Collier",
+        "Alachua",
+        "Broward"
+      ]
+    },
     {
       "date": "2026-09-22",
       "date_label": "Tue Sep 22",
