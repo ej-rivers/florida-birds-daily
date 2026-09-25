@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-09-24T15:44:53.621Z",
+  "generated_at": "2026-09-25T15:45:30.434Z",
   "entries": [
+    {
+      "date": "2026-09-25",
+      "date_label": "Fri Sep 25",
+      "common_name": "Barn Swallow",
+      "scientific_name": "Hirundo rustica",
+      "species_code": "barswa",
+      "url": "/florida-birds-daily/2026/09/25.html",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Landsvale.jpg/1280px-Landsvale.jpg",
+      "region_label": "SW 227th Ave/ Everglades Trail (C-111 Canal)",
+      "lat": 25.4199624,
+      "lng": -80.5596972,
+      "location_name": "SW 227th Ave/ Everglades Trail (C-111 Canal)",
+      "total_sightings": 77,
+      "lookback_days": 7,
+      "top_counties": [
+        "Alachua",
+        "Brevard",
+        "Broward"
+      ]
+    },
     {
       "date": "2026-09-24",
       "date_label": "Thu Sep 24",
