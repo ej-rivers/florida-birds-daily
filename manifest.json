@@ -1,7 +1,25 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-09-25T15:45:30.434Z",
+  "generated_at": "2026-09-26T14:55:31.394Z",
   "entries": [
+    {
+      "date": "2026-09-26",
+      "date_label": "Sat Sep 26",
+      "common_name": "Red Knot",
+      "scientific_name": "Calidris canutus",
+      "species_code": "redkno",
+      "url": "/florida-birds-daily/2026/09/26.html",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Calidris_canutus_%28summer%29.jpg/1280px-Calidris_canutus_%28summer%29.jpg",
+      "region_label": "Lido Key Beach",
+      "lat": 27.3116887,
+      "lng": -82.5773835,
+      "location_name": "Lido Key Beach",
+      "total_sightings": 1,
+      "lookback_days": 7,
+      "top_counties": [
+        "Collier"
+      ]
+    },
     {
       "date": "2026-09-25",
       "date_label": "Fri Sep 25",
