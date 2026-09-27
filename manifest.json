@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-09-26T14:55:31.394Z",
+  "generated_at": "2026-09-27T15:33:28.710Z",
   "entries": [
+    {
+      "date": "2026-09-27",
+      "date_label": "Sun Sep 27",
+      "common_name": "Swainson's Thrush",
+      "scientific_name": "Catharus ustulatus",
+      "species_code": "swathr",
+      "url": "/florida-birds-daily/2026/09/27.html",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Catharus_ustulatus_-North_Dakota-8a.jpg/1280px-Catharus_ustulatus_-North_Dakota-8a.jpg",
+      "region_label": "Soccer Fields",
+      "lat": 30.536507,
+      "lng": -84.282647,
+      "location_name": "Soccer Fields",
+      "total_sightings": 42,
+      "lookback_days": 7,
+      "top_counties": [
+        "Alachua",
+        "Escambia",
+        "Collier"
+      ]
+    },
     {
       "date": "2026-09-26",
       "date_label": "Sat Sep 26",
