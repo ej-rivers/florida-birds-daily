@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-09-27T15:33:28.710Z",
+  "generated_at": "2026-09-28T18:31:57.464Z",
   "entries": [
+    {
+      "date": "2026-09-28",
+      "date_label": "Mon Sep 28",
+      "common_name": "Black Skimmer",
+      "scientific_name": "Rynchops niger",
+      "species_code": "blkski",
+      "url": "/florida-birds-daily/2026/09/28.html",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Black_Skimmer_Close_Flying.jpg/1280px-Black_Skimmer_Close_Flying.jpg",
+      "region_label": "MacDill AFB - Recreational Beach Area",
+      "lat": 27.8227314,
+      "lng": -82.4857999,
+      "location_name": "MacDill AFB - Recreational Beach Area",
+      "total_sightings": 21,
+      "lookback_days": 7,
+      "top_counties": [
+        "Brevard",
+        "Collier",
+        "Hillsborough"
+      ]
+    },
     {
       "date": "2026-09-27",
       "date_label": "Sun Sep 27",
