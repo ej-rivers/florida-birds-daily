@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-09-29T16:49:43.025Z",
+  "generated_at": "2026-09-30T16:44:00.250Z",
   "entries": [
+    {
+      "date": "2026-09-30",
+      "date_label": "Wed Sep 30",
+      "common_name": "Semipalmated Sandpiper",
+      "scientific_name": "Calidris pusilla",
+      "species_code": "semsan",
+      "url": "/florida-birds-daily/2026/09/30.html",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Semipalmated_sandpiper_at_JBWR_%2830545%29.jpg/1280px-Semipalmated_sandpiper_at_JBWR_%2830545%29.jpg",
+      "region_label": "Everglades NP--Flamingo Amphitheatre",
+      "lat": 25.137089,
+      "lng": -80.9324605,
+      "location_name": "Everglades NP--Flamingo Amphitheatre",
+      "total_sightings": 9,
+      "lookback_days": 7,
+      "top_counties": [
+        "Palm Beach",
+        "Broward",
+        "Charlotte"
+      ]
+    },
     {
       "date": "2026-09-29",
       "date_label": "Tue Sep 29",
