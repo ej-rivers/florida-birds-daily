@@ -1,7 +1,21 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-10-02T16:33:20.477Z",
+  "generated_at": "2026-10-03T15:04:50.801Z",
   "entries": [
+    {
+      "date": "2026-10-03",
+      "date_label": "Sat Oct 3",
+      "common_name": "Yellow-chevroned Parakeet",
+      "scientific_name": "Brotogeris chiriri",
+      "species_code": "yecpar",
+      "url": "/florida-birds-daily/2026/10/03.html",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Brotogeris_chiriri_-Sao_Paulo%2C_Brazil-8.jpg/1280px-Brotogeris_chiriri_-Sao_Paulo%2C_Brazil-8.jpg",
+      "region_label": "Tropical Park",
+      "lat": 25.727907,
+      "lng": -80.3235126,
+      "location_name": "Tropical Park",
+      "lookback_days": 7
+    },
     {
       "date": "2026-10-02",
       "date_label": "Fri Oct 2",
