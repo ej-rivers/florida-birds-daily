@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-10-03T15:04:50.801Z",
+  "generated_at": "2026-10-04T15:42:05.021Z",
   "entries": [
+    {
+      "date": "2026-10-04",
+      "date_label": "Sun Oct 4",
+      "common_name": "Western Cattle-Egret",
+      "scientific_name": "Ardea ibis",
+      "species_code": "categr1",
+      "url": "/florida-birds-daily/2026/10/04.html",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Bubulcus_ibis_%28Cattle_Egret%29.jpg/1280px-Bubulcus_ibis_%28Cattle_Egret%29.jpg",
+      "region_label": "Orange Creek Restoration Area--Alachua Co.",
+      "lat": 29.4596175,
+      "lng": -82.0737476,
+      "location_name": "Orange Creek Restoration Area--Alachua Co.",
+      "total_sightings": 65,
+      "lookback_days": 7,
+      "top_counties": [
+        "Alachua",
+        "Broward",
+        "Collier"
+      ]
+    },
     {
       "date": "2026-10-03",
       "date_label": "Sat Oct 3",
