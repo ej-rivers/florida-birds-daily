@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-10-04T15:42:05.021Z",
+  "generated_at": "2026-10-06T17:04:58.469Z",
   "entries": [
+    {
+      "date": "2026-10-06",
+      "date_label": "Tue Oct 6",
+      "common_name": "Gray-cheeked Thrush",
+      "scientific_name": "Catharus minimus",
+      "species_code": "gycthr",
+      "url": "/florida-birds-daily/2026/10/06.html",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Gray-cheeked_Thrush_%287162864110%29.jpg/1280px-Gray-cheeked_Thrush_%287162864110%29.jpg",
+      "region_label": "Yard",
+      "lat": 30.1991272,
+      "lng": -81.3771853,
+      "location_name": "Yard",
+      "total_sightings": 75,
+      "lookback_days": 7,
+      "top_counties": [
+        "Alachua",
+        "Miami-Dade",
+        "Collier"
+      ]
+    },
     {
       "date": "2026-10-04",
       "date_label": "Sun Oct 4",
