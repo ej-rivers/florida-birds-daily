@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-10-06T17:04:58.469Z",
+  "generated_at": "2026-10-07T17:42:17.280Z",
   "entries": [
+    {
+      "date": "2026-10-07",
+      "date_label": "Wed Oct 7",
+      "common_name": "Red-winged Blackbird",
+      "scientific_name": "Agelaius phoeniceus",
+      "species_code": "rewbla",
+      "url": "/florida-birds-daily/2026/10/07.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/0/02/Blackbird-sunset-03.jpg",
+      "region_label": "Black Point Park and Marina",
+      "lat": 25.5400214,
+      "lng": -80.3274608,
+      "location_name": "Black Point Park and Marina",
+      "total_sightings": 171,
+      "lookback_days": 7,
+      "top_counties": [
+        "Alachua",
+        "Pinellas",
+        "Hernando"
+      ]
+    },
     {
       "date": "2026-10-06",
       "date_label": "Tue Oct 6",
