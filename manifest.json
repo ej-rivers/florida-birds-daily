@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-10-07T17:42:17.280Z",
+  "generated_at": "2026-10-08T17:46:50.797Z",
   "entries": [
+    {
+      "date": "2026-10-08",
+      "date_label": "Thu Oct 8",
+      "common_name": "Chimney Swift",
+      "scientific_name": "Chaetura pelagica",
+      "species_code": "chiswi",
+      "url": "/florida-birds-daily/2026/10/08.html",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Chaetura_pelagica_1900.jpg/1280px-Chaetura_pelagica_1900.jpg",
+      "region_label": "Rhoden Cove Road Landing",
+      "lat": 30.5136017,
+      "lng": -84.2949014,
+      "location_name": "Rhoden Cove Road Landing",
+      "total_sightings": 72,
+      "lookback_days": 7,
+      "top_counties": [
+        "Alachua",
+        "Duval",
+        "Escambia"
+      ]
+    },
     {
       "date": "2026-10-07",
       "date_label": "Wed Oct 7",
