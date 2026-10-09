@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-10-08T17:46:50.797Z",
+  "generated_at": "2026-10-09T17:22:30.750Z",
   "entries": [
+    {
+      "date": "2026-10-09",
+      "date_label": "Fri Oct 9",
+      "common_name": "Muscovy Duck",
+      "scientific_name": "Cairina moschata",
+      "species_code": "musduc",
+      "url": "/florida-birds-daily/2026/10/09.html",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Cairina_moschata-2.jpg/1280px-Cairina_moschata-2.jpg",
+      "region_label": "Gateway Park",
+      "lat": 27.865691,
+      "lng": -82.635999,
+      "location_name": "Gateway Park",
+      "total_sightings": 59,
+      "lookback_days": 7,
+      "top_counties": [
+        "Broward",
+        "Duval",
+        "Brevard"
+      ]
+    },
     {
       "date": "2026-10-08",
       "date_label": "Thu Oct 8",
