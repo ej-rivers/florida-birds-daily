@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-10-09T17:22:30.750Z",
+  "generated_at": "2026-10-10T16:08:19.189Z",
   "entries": [
+    {
+      "date": "2026-10-10",
+      "date_label": "Sat Oct 10",
+      "common_name": "White Ibis",
+      "scientific_name": "Eudocimus albus",
+      "species_code": "whiibi",
+      "url": "/florida-birds-daily/2026/10/10.html",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Eudocimus_albus_1.jpg/1280px-Eudocimus_albus_1.jpg",
+      "region_label": "NW 27th Ave, Miami US-FL 25.78346, -80.23949",
+      "lat": 25.783464,
+      "lng": -80.239486,
+      "location_name": "NW 27th Ave, Miami US-FL 25.78346, -80.23949",
+      "total_sightings": 266,
+      "lookback_days": 7,
+      "top_counties": [
+        "Duval",
+        "Collier",
+        "Broward"
+      ]
+    },
     {
       "date": "2026-10-09",
       "date_label": "Fri Oct 9",
