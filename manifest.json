@@ -1,7 +1,21 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-10-10T16:08:19.189Z",
+  "generated_at": "2026-10-11T16:35:11.491Z",
   "entries": [
+    {
+      "date": "2026-10-11",
+      "date_label": "Sun Oct 11",
+      "common_name": "Fulvous Whistling-Duck",
+      "scientific_name": "Dendrocygna bicolor",
+      "species_code": "fuwduc",
+      "url": "/florida-birds-daily/2026/10/11.html",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Dendrocygna_bicolor_wilhelma.jpg/1280px-Dendrocygna_bicolor_wilhelma.jpg",
+      "region_label": "Lake Apopka North Shore--Hooper Farms Rd.",
+      "lat": 28.6546046,
+      "lng": -81.555948,
+      "location_name": "Lake Apopka North Shore--Hooper Farms Rd.",
+      "lookback_days": 7
+    },
     {
       "date": "2026-10-10",
       "date_label": "Sat Oct 10",
