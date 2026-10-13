@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-10-12T20:10:39.306Z",
+  "generated_at": "2026-10-13T18:02:46.394Z",
   "entries": [
+    {
+      "date": "2026-10-13",
+      "date_label": "Tue Oct 13",
+      "common_name": "Royal Tern",
+      "scientific_name": "Thalasseus maximus",
+      "species_code": "royter1",
+      "url": "/florida-birds-daily/2026/10/13.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Thalasseus_maximus_flight.jpg",
+      "region_label": "Fort Pierce Inlet South Jetty Park",
+      "lat": 27.471039,
+      "lng": -80.2883649,
+      "location_name": "Fort Pierce Inlet South Jetty Park",
+      "total_sightings": 96,
+      "lookback_days": 7,
+      "top_counties": [
+        "Brevard",
+        "Collier",
+        "Duval"
+      ]
+    },
     {
       "date": "2026-10-12",
       "date_label": "Mon Oct 12",
