@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-10-14T15:44:16.092Z",
+  "generated_at": "2026-10-15T15:31:37.338Z",
   "entries": [
+    {
+      "date": "2026-10-15",
+      "date_label": "Thu Oct 15",
+      "common_name": "Least Sandpiper",
+      "scientific_name": "Calidris minutilla",
+      "species_code": "leasan",
+      "url": "/florida-birds-daily/2026/10/15.html",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Least_sandpiper_in_JBWR_%2825078%29.jpg/1280px-Least_sandpiper_in_JBWR_%2825078%29.jpg",
+      "region_label": "Sharon Rose Wiechens Preserve",
+      "lat": 28.8451812,
+      "lng": -81.9517422,
+      "location_name": "Sharon Rose Wiechens Preserve",
+      "total_sightings": 25,
+      "lookback_days": 7,
+      "top_counties": [
+        "Palm Beach",
+        "Collier",
+        "Brevard"
+      ]
+    },
     {
       "date": "2026-10-14",
       "date_label": "Wed Oct 14",
