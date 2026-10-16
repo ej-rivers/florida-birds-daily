@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-10-15T15:31:37.338Z",
+  "generated_at": "2026-10-16T15:18:01.688Z",
   "entries": [
+    {
+      "date": "2026-10-16",
+      "date_label": "Fri Oct 16",
+      "common_name": "Canada Goose",
+      "scientific_name": "Branta canadensis",
+      "species_code": "cangoo",
+      "url": "/florida-birds-daily/2026/10/16.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/7/74/Canadagoose.jpg",
+      "region_label": "M&M Dairy (Port Jacksonville Parkway)",
+      "lat": 30.4508888,
+      "lng": -81.5630391,
+      "location_name": "M&M Dairy (Port Jacksonville Parkway)",
+      "total_sightings": 36,
+      "lookback_days": 7,
+      "top_counties": [
+        "Duval",
+        "Clay",
+        "Flagler"
+      ]
+    },
     {
       "date": "2026-10-15",
       "date_label": "Thu Oct 15",
