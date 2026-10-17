@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-10-16T15:18:01.688Z",
+  "generated_at": "2026-10-17T14:06:22.700Z",
   "entries": [
+    {
+      "date": "2026-10-17",
+      "date_label": "Sat Oct 17",
+      "common_name": "Brown-headed Cowbird",
+      "scientific_name": "Molothrus ater",
+      "species_code": "bnhcow",
+      "url": "/florida-birds-daily/2026/10/17.html",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Molothrus_ater_immature_CT.jpg/1280px-Molothrus_ater_immature_CT.jpg",
+      "region_label": "Chapmans Pond and Nature Trails",
+      "lat": 29.6184836,
+      "lng": -82.4188213,
+      "location_name": "Chapmans Pond and Nature Trails",
+      "total_sightings": 50,
+      "lookback_days": 7,
+      "top_counties": [
+        "Alachua",
+        "Duval",
+        "Orange"
+      ]
+    },
     {
       "date": "2026-10-16",
       "date_label": "Fri Oct 16",
