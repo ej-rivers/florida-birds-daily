@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-10-17T14:06:22.700Z",
+  "generated_at": "2026-10-18T14:22:08.627Z",
   "entries": [
+    {
+      "date": "2026-10-18",
+      "date_label": "Sun Oct 18",
+      "common_name": "Willet",
+      "scientific_name": "Tringa semipalmata",
+      "species_code": "willet1",
+      "url": "/florida-birds-daily/2026/10/18.html",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Catoptrophorus-semipalmatus-001.jpg/1280px-Catoptrophorus-semipalmatus-001.jpg",
+      "region_label": "Venice Beach",
+      "lat": 27.100528,
+      "lng": -82.4606257,
+      "location_name": "Venice Beach",
+      "total_sightings": 71,
+      "lookback_days": 7,
+      "top_counties": [
+        "Brevard",
+        "Duval",
+        "Collier"
+      ]
+    },
     {
       "date": "2026-10-17",
       "date_label": "Sat Oct 17",
