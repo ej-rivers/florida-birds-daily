@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-10-18T14:22:08.627Z",
+  "generated_at": "2026-10-19T17:22:10.251Z",
   "entries": [
+    {
+      "date": "2026-10-19",
+      "date_label": "Mon Oct 19",
+      "common_name": "American White Pelican",
+      "scientific_name": "Pelecanus erythrorhynchos",
+      "species_code": "amwpel",
+      "url": "/florida-birds-daily/2026/10/19.html",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Mikebaird_-_American_White_Pelican_%28Pelecanus_erythrorhynchos_%29_%28bird%29_in_Mo_%28by%29.jpg/1280px-Mikebaird_-_American_White_Pelican_%28Pelecanus_erythrorhynchos_%29_%28bird%29_in_Mo_%28by%29.jpg",
+      "region_label": "Lighthouse Road, Crawfordville, Florida, US (30.107, -84.157)",
+      "lat": 30.1072303,
+      "lng": -84.1569405,
+      "location_name": "Lighthouse Road, Crawfordville, Florida, US (30.107, -84.157)",
+      "total_sightings": 8,
+      "lookback_days": 7,
+      "top_counties": [
+        "Brevard",
+        "Duval",
+        "Flagler"
+      ]
+    },
     {
       "date": "2026-10-18",
       "date_label": "Sun Oct 18",
