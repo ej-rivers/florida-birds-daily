@@ -1,7 +1,25 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-10-19T17:22:10.251Z",
+  "generated_at": "2026-10-20T15:35:00.075Z",
   "entries": [
+    {
+      "date": "2026-10-20",
+      "date_label": "Tue Oct 20",
+      "common_name": "American Avocet",
+      "scientific_name": "Recurvirostra americana",
+      "species_code": "ameavo",
+      "url": "/florida-birds-daily/2026/10/20.html",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Recurvirostra_americana_-Palo_Alto_Baylands-8.jpg/1280px-Recurvirostra_americana_-Palo_Alto_Baylands-8.jpg",
+      "region_label": "Estero Bay Preserve SP--Winkler Point",
+      "lat": 26.4800134,
+      "lng": -81.898452,
+      "location_name": "Estero Bay Preserve SP--Winkler Point",
+      "total_sightings": 1,
+      "lookback_days": 7,
+      "top_counties": [
+        "Hernando"
+      ]
+    },
     {
       "date": "2026-10-19",
       "date_label": "Mon Oct 19",
