@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-10-21T15:52:14.362Z",
+  "generated_at": "2026-10-22T15:48:54.000Z",
   "entries": [
+    {
+      "date": "2026-10-22",
+      "date_label": "Thu Oct 22",
+      "common_name": "Short-billed Dowitcher",
+      "scientific_name": "Limnodromus griseus",
+      "species_code": "shbdow",
+      "url": "/florida-birds-daily/2026/10/22.html",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Short-billed_dowitcher_in_JBWR_%2840850%29.jpg/1280px-Short-billed_dowitcher_in_JBWR_%2840850%29.jpg",
+      "region_label": "Boca Chica Beach",
+      "lat": 24.5631321,
+      "lng": -81.6773723,
+      "location_name": "Boca Chica Beach",
+      "total_sightings": 15,
+      "lookback_days": 7,
+      "top_counties": [
+        "Hillsborough",
+        "Collier",
+        "Duval"
+      ]
+    },
     {
       "date": "2026-10-21",
       "date_label": "Wed Oct 21",
