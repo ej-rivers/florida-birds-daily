@@ -1,7 +1,25 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-10-23T15:39:55.385Z",
+  "generated_at": "2026-10-24T14:21:26.713Z",
   "entries": [
+    {
+      "date": "2026-10-24",
+      "date_label": "Sat Oct 24",
+      "common_name": "Red-masked Parakeet",
+      "scientific_name": "Psittacara erythrogenys",
+      "species_code": "rempar",
+      "url": "/florida-birds-daily/2026/10/24.html",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Red-masked_Parakeet-Aratinga_erythrogenys_in_a_tree.jpg/1280px-Red-masked_Parakeet-Aratinga_erythrogenys_in_a_tree.jpg",
+      "region_label": "A. D. Barnes Park",
+      "lat": 25.7340827,
+      "lng": -80.3108552,
+      "location_name": "A. D. Barnes Park",
+      "total_sightings": 1,
+      "lookback_days": 7,
+      "top_counties": [
+        "Broward"
+      ]
+    },
     {
       "date": "2026-10-23",
       "date_label": "Fri Oct 23",
