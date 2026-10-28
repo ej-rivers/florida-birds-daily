@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-10-27T16:16:32.474Z",
+  "generated_at": "2026-10-28T17:02:03.610Z",
   "entries": [
+    {
+      "date": "2026-10-28",
+      "date_label": "Wed Oct 28",
+      "common_name": "Red Knot",
+      "scientific_name": "Calidris canutus",
+      "species_code": "redkno",
+      "url": "/florida-birds-daily/2026/10/28.html",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Calidris_canutus_%28summer%29.jpg/1280px-Calidris_canutus_%28summer%29.jpg",
+      "region_label": "Fort De Soto Park - Outback Key",
+      "lat": 27.6426634,
+      "lng": -82.7424387,
+      "location_name": "Fort De Soto Park - Outback Key",
+      "total_sightings": 8,
+      "lookback_days": 7,
+      "top_counties": [
+        "Brevard",
+        "Manatee",
+        "Escambia"
+      ]
+    },
     {
       "date": "2026-10-27",
       "date_label": "Tue Oct 27",
