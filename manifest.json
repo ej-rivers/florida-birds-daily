@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-10-28T17:02:03.610Z",
+  "generated_at": "2026-10-29T17:20:31.004Z",
   "entries": [
+    {
+      "date": "2026-10-29",
+      "date_label": "Thu Oct 29",
+      "common_name": "Dunlin",
+      "scientific_name": "Calidris alpina",
+      "species_code": "dunlin",
+      "url": "/florida-birds-daily/2026/10/29.html",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Calidris-alpina-001.jpg/1280px-Calidris-alpina-001.jpg",
+      "region_label": "Fort De Soto Park",
+      "lat": 27.6327266,
+      "lng": -82.718157,
+      "location_name": "Fort De Soto Park",
+      "total_sightings": 14,
+      "lookback_days": 7,
+      "top_counties": [
+        "Duval",
+        "Escambia",
+        "Brevard"
+      ]
+    },
     {
       "date": "2026-10-28",
       "date_label": "Wed Oct 28",
