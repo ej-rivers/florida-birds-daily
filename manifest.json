@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-10-29T17:20:31.004Z",
+  "generated_at": "2026-10-30T16:57:38.216Z",
   "entries": [
+    {
+      "date": "2026-10-30",
+      "date_label": "Fri Oct 30",
+      "common_name": "European Starling",
+      "scientific_name": "Sturnus vulgaris",
+      "species_code": "eursta",
+      "url": "/florida-birds-daily/2026/10/30.html",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Sturnus_vulgaris_-California-8.jpg/1280px-Sturnus_vulgaris_-California-8.jpg",
+      "region_label": "Pompano Beach Pier",
+      "lat": 26.2364707,
+      "lng": -80.0877068,
+      "location_name": "Pompano Beach Pier",
+      "total_sightings": 107,
+      "lookback_days": 7,
+      "top_counties": [
+        "Broward",
+        "Brevard",
+        "Collier"
+      ]
+    },
     {
       "date": "2026-10-29",
       "date_label": "Thu Oct 29",
