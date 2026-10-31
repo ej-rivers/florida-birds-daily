@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-10-30T16:57:38.216Z",
+  "generated_at": "2026-10-31T15:58:41.427Z",
   "entries": [
+    {
+      "date": "2026-10-31",
+      "date_label": "Sat Oct 31",
+      "common_name": "Black Skimmer",
+      "scientific_name": "Rynchops niger",
+      "species_code": "blkski",
+      "url": "/florida-birds-daily/2026/10/31.html",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Black_skimmer_%28Rynchops_niger%29_in_flight.jpg/1280px-Black_skimmer_%28Rynchops_niger%29_in_flight.jpg",
+      "region_label": "Alimacani Park and Boat Ramp",
+      "lat": 30.4202685,
+      "lng": -81.4203,
+      "location_name": "Alimacani Park and Boat Ramp",
+      "total_sightings": 10,
+      "lookback_days": 7,
+      "top_counties": [
+        "Duval",
+        "Escambia",
+        "Brevard"
+      ]
+    },
     {
       "date": "2026-10-30",
       "date_label": "Fri Oct 30",
