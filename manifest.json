@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-10-31T15:58:41.427Z",
+  "generated_at": "2026-11-01T17:01:49.193Z",
   "entries": [
+    {
+      "date": "2026-11-01",
+      "date_label": "Sun Nov 1",
+      "common_name": "Turkey Vulture",
+      "scientific_name": "Cathartes aura",
+      "species_code": "turvul",
+      "url": "/florida-birds-daily/2026/11/01.html",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Marin_Headlands_with_Rodeo_Beach.jpg/1280px-Marin_Headlands_with_Rodeo_Beach.jpg",
+      "region_label": "Breaker's Golf Course/Pine Walk Road",
+      "lat": 26.7141564,
+      "lng": -80.038088,
+      "location_name": "Breaker's Golf Course/Pine Walk Road",
+      "total_sightings": 458,
+      "lookback_days": 7,
+      "top_counties": [
+        "Alachua",
+        "Palm Beach",
+        "Brevard"
+      ]
+    },
     {
       "date": "2026-10-31",
       "date_label": "Sat Oct 31",
