@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-11-03T18:16:41.285Z",
+  "generated_at": "2026-11-04T18:30:17.386Z",
   "entries": [
+    {
+      "date": "2026-11-04",
+      "date_label": "Wed Nov 4",
+      "common_name": "Wood Duck",
+      "scientific_name": "Aix sponsa",
+      "species_code": "wooduc",
+      "url": "/florida-birds-daily/2026/11/04.html",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Aix_sponsa_-Ouwehands_Dierenpark-8a.jpg/1280px-Aix_sponsa_-Ouwehands_Dierenpark-8a.jpg",
+      "region_label": "St. Marks National Wildlife Refuge, St. Marks Unit",
+      "lat": 30.10907,
+      "lng": -84.1451,
+      "location_name": "St. Marks National Wildlife Refuge, St. Marks Unit",
+      "total_sightings": 17,
+      "lookback_days": 7,
+      "top_counties": [
+        "Duval",
+        "Alachua",
+        "Bay"
+      ]
+    },
     {
       "date": "2026-11-03",
       "date_label": "Tue Nov 3",
