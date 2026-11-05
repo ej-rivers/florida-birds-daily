@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-11-04T18:30:17.386Z",
+  "generated_at": "2026-11-05T18:34:10.686Z",
   "entries": [
+    {
+      "date": "2026-11-05",
+      "date_label": "Thu Nov 5",
+      "common_name": "Black-bellied Whistling-Duck",
+      "scientific_name": "Dendrocygna autumnalis",
+      "species_code": "bbwduc",
+      "url": "/florida-birds-daily/2026/11/05.html",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Whistling_duck_flight02_-_natures_pics.jpg/1280px-Whistling_duck_flight02_-_natures_pics.jpg",
+      "region_label": "Second St, Fort Myers Shores",
+      "lat": 26.7060054,
+      "lng": -81.7498095,
+      "location_name": "Second St, Fort Myers Shores",
+      "total_sightings": 75,
+      "lookback_days": 7,
+      "top_counties": [
+        "Brevard",
+        "Highlands",
+        "Charlotte"
+      ]
+    },
     {
       "date": "2026-11-04",
       "date_label": "Wed Nov 4",
