@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-11-06T17:51:12.558Z",
+  "generated_at": "2026-11-07T16:46:07.221Z",
   "entries": [
+    {
+      "date": "2026-11-07",
+      "date_label": "Sat Nov 7",
+      "common_name": "Snowy Egret",
+      "scientific_name": "Egretta thula",
+      "species_code": "snoegr",
+      "url": "/florida-birds-daily/2026/11/07.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/8/81/Egretta_thula1.jpg",
+      "region_label": "Lake Apopka North Shore--Lust Rd. Gate Area Only (not for entire wildlife drive)",
+      "lat": 28.6691643,
+      "lng": -81.558896,
+      "location_name": "Lake Apopka North Shore--Lust Rd. Gate Area Only (not for entire wildlife drive)",
+      "total_sightings": 232,
+      "lookback_days": 7,
+      "top_counties": [
+        "Brevard",
+        "Collier",
+        "Palm Beach"
+      ]
+    },
     {
       "date": "2026-11-06",
       "date_label": "Fri Nov 6",
