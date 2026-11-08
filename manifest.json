@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-11-07T16:46:07.221Z",
+  "generated_at": "2026-11-08T16:56:45.744Z",
   "entries": [
+    {
+      "date": "2026-11-08",
+      "date_label": "Sun Nov 8",
+      "common_name": "Rock Pigeon",
+      "scientific_name": "Columba livia",
+      "species_code": "rocpig",
+      "url": "/florida-birds-daily/2026/11/08.html",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Pigeon_portrait_4861.jpg/1280px-Pigeon_portrait_4861.jpg",
+      "region_label": "Days Inn central Fort Myers",
+      "lat": 26.573924,
+      "lng": -81.871498,
+      "location_name": "Days Inn central Fort Myers",
+      "total_sightings": 76,
+      "lookback_days": 7,
+      "top_counties": [
+        "Broward",
+        "Brevard",
+        "Charlotte"
+      ]
+    },
     {
       "date": "2026-11-07",
       "date_label": "Sat Nov 7",
