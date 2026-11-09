@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-11-08T16:56:45.744Z",
+  "generated_at": "2026-11-09T21:20:15.486Z",
   "entries": [
+    {
+      "date": "2026-11-09",
+      "date_label": "Mon Nov 9",
+      "common_name": "Forster's Tern",
+      "scientific_name": "Sterna forsteri",
+      "species_code": "forter",
+      "url": "/florida-birds-daily/2026/11/09.html",
+      "thumb": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+      "region_label": "MacDill AFB - Recreational Beach Area",
+      "lat": 27.8227314,
+      "lng": -82.4857999,
+      "location_name": "MacDill AFB - Recreational Beach Area",
+      "total_sightings": 53,
+      "lookback_days": 7,
+      "top_counties": [
+        "Franklin",
+        "Brevard",
+        "Collier"
+      ]
+    },
     {
       "date": "2026-11-08",
       "date_label": "Sun Nov 8",
