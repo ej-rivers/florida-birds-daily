@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-11-09T21:20:15.486Z",
+  "generated_at": "2026-11-10T18:30:59.203Z",
   "entries": [
+    {
+      "date": "2026-11-10",
+      "date_label": "Tue Nov 10",
+      "common_name": "Brown Pelican",
+      "scientific_name": "Pelecanus occidentalis",
+      "species_code": "brnpel",
+      "url": "/florida-birds-daily/2026/11/10.html",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Brown-Pelican-Ponce-Inlet-FL.jpg/1280px-Brown-Pelican-Ponce-Inlet-FL.jpg",
+      "region_label": "Crescent Beach",
+      "lat": 27.2556215,
+      "lng": -82.5403905,
+      "location_name": "Crescent Beach",
+      "total_sightings": 187,
+      "lookback_days": 7,
+      "top_counties": [
+        "Brevard",
+        "Collier",
+        "Escambia"
+      ]
+    },
     {
       "date": "2026-11-09",
       "date_label": "Mon Nov 9",
