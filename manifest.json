@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-11-12T18:44:16.697Z",
+  "generated_at": "2026-11-13T18:26:14.856Z",
   "entries": [
+    {
+      "date": "2026-11-13",
+      "date_label": "Fri Nov 13",
+      "common_name": "Black Scoter",
+      "scientific_name": "Melanitta americana",
+      "species_code": "blksco2",
+      "url": "/florida-birds-daily/2026/11/13.html",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Melanitta_americana_Barnegat_NJ.jpg/1280px-Melanitta_americana_Barnegat_NJ.jpg",
+      "region_label": "Boynton Beach Inlet Park",
+      "lat": 26.5446541,
+      "lng": -80.0426102,
+      "location_name": "Boynton Beach Inlet Park",
+      "total_sightings": 15,
+      "lookback_days": 7,
+      "top_counties": [
+        "Brevard",
+        "Duval",
+        "Flagler"
+      ]
+    },
     {
       "date": "2026-11-12",
       "date_label": "Thu Nov 12",
