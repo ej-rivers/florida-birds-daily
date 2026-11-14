@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-11-13T18:26:14.856Z",
+  "generated_at": "2026-11-14T16:53:26.397Z",
   "entries": [
+    {
+      "date": "2026-11-14",
+      "date_label": "Sat Nov 14",
+      "common_name": "Mourning Dove",
+      "scientific_name": "Zenaida macroura",
+      "species_code": "moudov",
+      "url": "/florida-birds-daily/2026/11/14.html",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Mourning_dove_perched_%2861179%29.jpg/1280px-Mourning_dove_perched_%2861179%29.jpg",
+      "region_label": "Backyard",
+      "lat": 25.7327033,
+      "lng": -80.3852254,
+      "location_name": "Backyard",
+      "total_sightings": 347,
+      "lookback_days": 7,
+      "top_counties": [
+        "Brevard",
+        "Alachua",
+        "Broward"
+      ]
+    },
     {
       "date": "2026-11-13",
       "date_label": "Fri Nov 13",
