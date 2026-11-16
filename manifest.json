@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-11-15T17:37:08.744Z",
+  "generated_at": "2026-11-16T20:51:18.189Z",
   "entries": [
+    {
+      "date": "2026-11-16",
+      "date_label": "Mon Nov 16",
+      "common_name": "Ring-necked Duck",
+      "scientific_name": "Aythya collaris",
+      "species_code": "rinduc",
+      "url": "/florida-birds-daily/2026/11/16.html",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Ring-necked_Duck_%28m%29_%2826265137481%29.jpg/1280px-Ring-necked_Duck_%28m%29_%2826265137481%29.jpg",
+      "region_label": "Lake Morton",
+      "lat": 28.0375919,
+      "lng": -81.9539738,
+      "location_name": "Lake Morton",
+      "total_sightings": 42,
+      "lookback_days": 7,
+      "top_counties": [
+        "Palm Beach",
+        "Alachua",
+        "Duval"
+      ]
+    },
     {
       "date": "2026-11-15",
       "date_label": "Sun Nov 15",
