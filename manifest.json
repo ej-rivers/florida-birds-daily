@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-11-16T20:51:18.189Z",
+  "generated_at": "2026-11-17T19:40:29.307Z",
   "entries": [
+    {
+      "date": "2026-11-17",
+      "date_label": "Tue Nov 17",
+      "common_name": "Tree Swallow",
+      "scientific_name": "Tachycineta bicolor",
+      "species_code": "treswa",
+      "url": "/florida-birds-daily/2026/11/17.html",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Tachycineta_bicolor_CT.jpg/1280px-Tachycineta_bicolor_CT.jpg",
+      "region_label": "Innovation Drive, Jupiter, Florida, US (26.908, -80.307)",
+      "lat": 26.908252,
+      "lng": -80.306822,
+      "location_name": "Innovation Drive, Jupiter, Florida, US (26.908, -80.307)",
+      "total_sightings": 124,
+      "lookback_days": 7,
+      "top_counties": [
+        "Brevard",
+        "Collier",
+        "Franklin"
+      ]
+    },
     {
       "date": "2026-11-16",
       "date_label": "Mon Nov 16",
