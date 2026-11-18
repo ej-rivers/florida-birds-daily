@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-11-17T19:40:29.307Z",
+  "generated_at": "2026-11-18T19:16:26.596Z",
   "entries": [
+    {
+      "date": "2026-11-18",
+      "date_label": "Wed Nov 18",
+      "common_name": "Northern Rough-winged Swallow",
+      "scientific_name": "Stelgidopteryx serripennis",
+      "species_code": "nrwswa",
+      "url": "/florida-birds-daily/2026/11/18.html",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Northern_rough-winged_swallow_7435.jpg/1280px-Northern_rough-winged_swallow_7435.jpg",
+      "region_label": "Belle Glade Marina & Torry Island",
+      "lat": 26.7063982,
+      "lng": -80.7168961,
+      "location_name": "Belle Glade Marina & Torry Island",
+      "total_sightings": 9,
+      "lookback_days": 7,
+      "top_counties": [
+        "Broward",
+        "Glades",
+        "Franklin"
+      ]
+    },
     {
       "date": "2026-11-17",
       "date_label": "Tue Nov 17",
