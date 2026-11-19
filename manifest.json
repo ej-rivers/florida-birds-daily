@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-11-18T19:16:26.596Z",
+  "generated_at": "2026-11-19T19:24:40.941Z",
   "entries": [
+    {
+      "date": "2026-11-19",
+      "date_label": "Thu Nov 19",
+      "common_name": "Cedar Waxwing",
+      "scientific_name": "Bombycilla cedrorum",
+      "species_code": "cedwax",
+      "url": "/florida-birds-daily/2026/11/19.html",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Bombycilla_cedrorum_CT2.jpg/1280px-Bombycilla_cedrorum_CT2.jpg",
+      "region_label": "University of Florida--Natural Area",
+      "lat": 29.6320753,
+      "lng": -82.3683997,
+      "location_name": "University of Florida--Natural Area",
+      "total_sightings": 6,
+      "lookback_days": 7,
+      "top_counties": [
+        "Alachua",
+        "Duval",
+        "Brevard"
+      ]
+    },
     {
       "date": "2026-11-18",
       "date_label": "Wed Nov 18",
