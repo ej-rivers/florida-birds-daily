@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-11-19T19:24:40.941Z",
+  "generated_at": "2026-11-20T18:59:38.982Z",
   "entries": [
+    {
+      "date": "2026-11-20",
+      "date_label": "Fri Nov 20",
+      "common_name": "Lesser Scaup",
+      "scientific_name": "Aythya affinis",
+      "species_code": "lessca",
+      "url": "/florida-birds-daily/2026/11/20.html",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Aythya_affinis.JPG/1280px-Aythya_affinis.JPG",
+      "region_label": "Gandy Beach",
+      "lat": 27.8758367,
+      "lng": -82.5940929,
+      "location_name": "Gandy Beach",
+      "total_sightings": 11,
+      "lookback_days": 7,
+      "top_counties": [
+        "Brevard",
+        "Alachua",
+        "Broward"
+      ]
+    },
     {
       "date": "2026-11-19",
       "date_label": "Thu Nov 19",
