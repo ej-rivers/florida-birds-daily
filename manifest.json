@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-11-20T18:59:38.982Z",
+  "generated_at": "2026-11-21T17:54:27.627Z",
   "entries": [
+    {
+      "date": "2026-11-21",
+      "date_label": "Sat Nov 21",
+      "common_name": "Northern Gannet",
+      "scientific_name": "Morus bassanus",
+      "species_code": "norgan",
+      "url": "/florida-birds-daily/2026/11/21.html",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Morus_bassanus_adu.jpg/1280px-Morus_bassanus_adu.jpg",
+      "region_label": "Pelagic Cruise Ship Leg",
+      "lat": 28.3228822,
+      "lng": -80.4639336,
+      "location_name": "Pelagic Cruise Ship Leg",
+      "total_sightings": 22,
+      "lookback_days": 7,
+      "top_counties": [
+        "Brevard",
+        "Duval",
+        "Flagler"
+      ]
+    },
     {
       "date": "2026-11-20",
       "date_label": "Fri Nov 20",
