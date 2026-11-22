@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-11-21T17:54:27.627Z",
+  "generated_at": "2026-11-22T18:20:17.819Z",
   "entries": [
+    {
+      "date": "2026-11-22",
+      "date_label": "Sun Nov 22",
+      "common_name": "Mallard x Mottled Duck (hybrid)",
+      "scientific_name": "Anas platyrhynchos x fulvigula",
+      "species_code": "x00422",
+      "url": "/florida-birds-daily/2026/11/22.html",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Bulletin_%28IA_bulletin03peab%29.pdf/page1-500px-Bulletin_%28IA_bulletin03peab%29.pdf.jpg",
+      "region_label": "Westbrook Estates",
+      "lat": 28.2289362,
+      "lng": -82.3689222,
+      "location_name": "Westbrook Estates",
+      "total_sightings": 35,
+      "lookback_days": 7,
+      "top_counties": [
+        "Pinellas",
+        "Brevard",
+        "Duval"
+      ]
+    },
     {
       "date": "2026-11-21",
       "date_label": "Sat Nov 21",
