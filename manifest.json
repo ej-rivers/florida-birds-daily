@@ -1,7 +1,21 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-11-22T18:20:17.819Z",
+  "generated_at": "2026-11-23T22:29:13.101Z",
   "entries": [
+    {
+      "date": "2026-11-23",
+      "date_label": "Mon Nov 23",
+      "common_name": "White-eyed Parakeet",
+      "scientific_name": "Psittacara leucophthalmus",
+      "species_code": "whepar2",
+      "url": "/florida-birds-daily/2026/11/23.html",
+      "thumb": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+      "region_label": "Haulover Park, North Miami Beach US-FL 25.90081, -80.12502",
+      "lat": 25.900806,
+      "lng": -80.125018,
+      "location_name": "Haulover Park, North Miami Beach US-FL 25.90081, -80.12502",
+      "lookback_days": 7
+    },
     {
       "date": "2026-11-22",
       "date_label": "Sun Nov 22",
