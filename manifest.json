@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-11-23T22:29:13.101Z",
+  "generated_at": "2026-11-24T21:01:16.758Z",
   "entries": [
+    {
+      "date": "2026-11-24",
+      "date_label": "Tue Nov 24",
+      "common_name": "American White Pelican",
+      "scientific_name": "Pelecanus erythrorhynchos",
+      "species_code": "amwpel",
+      "url": "/florida-birds-daily/2026/11/24.html",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Mikebaird_-_American_White_Pelican_%28Pelecanus_erythrorhynchos_%29_%28bird%29_in_Mo_%28by%29.jpg/1280px-Mikebaird_-_American_White_Pelican_%28Pelecanus_erythrorhynchos_%29_%28bird%29_in_Mo_%28by%29.jpg",
+      "region_label": "FWC Office",
+      "lat": 29.7665008,
+      "lng": -84.8802745,
+      "location_name": "FWC Office",
+      "total_sightings": 30,
+      "lookback_days": 7,
+      "top_counties": [
+        "Duval",
+        "Brevard",
+        "Alachua"
+      ]
+    },
     {
       "date": "2026-11-23",
       "date_label": "Mon Nov 23",
