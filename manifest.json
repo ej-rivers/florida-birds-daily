@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-11-24T21:01:16.758Z",
+  "generated_at": "2026-11-25T20:24:15.410Z",
   "entries": [
+    {
+      "date": "2026-11-25",
+      "date_label": "Wed Nov 25",
+      "common_name": "Boat-tailed Grackle",
+      "scientific_name": "Quiscalus major",
+      "species_code": "botgra",
+      "url": "/florida-birds-daily/2026/11/25.html",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Quiscalus_major_-Three_Lakes_Wildlife_Management_Area%2C_Florida%2C_USA_-male-8.jpg/1280px-Quiscalus_major_-Three_Lakes_Wildlife_Management_Area%2C_Florida%2C_USA_-male-8.jpg",
+      "region_label": "Florida Welcome Center I-75",
+      "lat": 30.6131509,
+      "lng": -83.1469452,
+      "location_name": "Florida Welcome Center I-75",
+      "total_sightings": 299,
+      "lookback_days": 7,
+      "top_counties": [
+        "Brevard",
+        "Broward",
+        "Hillsborough"
+      ]
+    },
     {
       "date": "2026-11-24",
       "date_label": "Tue Nov 24",
