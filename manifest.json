@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-11-25T20:24:15.410Z",
+  "generated_at": "2026-11-26T20:01:09.398Z",
   "entries": [
+    {
+      "date": "2026-11-26",
+      "date_label": "Thu Nov 26",
+      "common_name": "Long-billed Dowitcher",
+      "scientific_name": "Limnodromus scolopaceus",
+      "species_code": "lobdow",
+      "url": "/florida-birds-daily/2026/11/26.html",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Limnodromus_scolopaceus_Mike_Baird_crop.jpg/1280px-Limnodromus_scolopaceus_Mike_Baird_crop.jpg",
+      "region_label": "Lake Apopka Wildlife Drive",
+      "lat": 28.6691214,
+      "lng": -81.5630963,
+      "location_name": "Lake Apopka Wildlife Drive",
+      "total_sightings": 5,
+      "lookback_days": 7,
+      "top_counties": [
+        "Charlotte",
+        "Palm Beach",
+        "Hillsborough"
+      ]
+    },
     {
       "date": "2026-11-25",
       "date_label": "Wed Nov 25",
