@@ -1,7 +1,27 @@
 {
   "site": "Florida Birds Daily",
-  "generated_at": "2026-11-26T20:01:09.398Z",
+  "generated_at": "2026-11-27T19:50:15.584Z",
   "entries": [
+    {
+      "date": "2026-11-27",
+      "date_label": "Fri Nov 27",
+      "common_name": "Redhead",
+      "scientific_name": "Aythya americana",
+      "species_code": "redhea",
+      "url": "/florida-birds-daily/2026/11/27.html",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/2/27/Redhead_duck_%28Aythya_americana%29_female_and_offspring.jpg",
+      "region_label": "William E Dunn Water Reclamation Facility",
+      "lat": 28.1080422,
+      "lng": -82.7675414,
+      "location_name": "William E Dunn Water Reclamation Facility",
+      "total_sightings": 26,
+      "lookback_days": 7,
+      "top_counties": [
+        "Brevard",
+        "Duval",
+        "Escambia"
+      ]
+    },
     {
       "date": "2026-11-26",
       "date_label": "Thu Nov 26",
